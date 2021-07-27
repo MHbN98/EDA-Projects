@@ -1,0 +1,43 @@
+Name1,Manufacturer,Model,Model_Year,Transmission,KM_Done,Price,Time,Rating
+Toyota Camry  2.5L LE STD (178 HP) 2020,Toyota ,Camry ,2020.0,Automatic,40000.0,75000," Apr 13, 2021",5
+Ford Expedition 2019,Ford ,Expedition ,2019.0,Automatic,17000.0,195000," Apr 11, 2021",1
+Dodge Durango  3.6L GT(RWD) 2020,Dodge ,Durango ,2020.0,CVT,36200.0,140000," Apr 10, 2021",1
+Lincoln Town Car 2021,Lincoln ,Town ,2021.0,Automatic,350000.0,10000," Apr 07, 2021",10
+Kia Optima  2.0L T-GDI GT 2020,Kia ,Optima ,2020.0,Automatic,88000.0,65000," Apr 02, 2021",5
+MG HS 2021,MG ,HS ,2021.0,Automatic,2500.0,90000," Mar 31, 2021",5
+MG HS 2021,MG ,HS ,2021.0,Automatic,2506.0,96000," Mar 30, 2021",1
+Toyota Fortuner  2.7L GX2 (4X4) 2020,Toyota ,Fortuner ,2020.0,Automatic,127000.0,115000," Mar 29, 2021",1
+Toyota Corolla  1.6L XLI 2020,Toyota ,Corolla ,2020.0,CVT,89000.0,70000," Mar 21, 2021",1
+Toyota Camry  2.5L Grande Hybrid (212 HP) 2019,Toyota ,Camry ,2019.0,CVT,56000.0,79000," Mar 19, 2021",5
+Honda Civic  1.6L LX Sport 2019,Honda ,Civic ,2019.0,CVT,150000.0,37000," Mar 19, 2021",5
+Toyota Corolla  1.6L XLI 2020,Toyota ,Corolla ,2020.0,CVT,31000.0,65000," Mar 18, 2021",5
+Nissan Altima  2.5 S 2020,Nissan ,Altima ,2020.0,CVT,16000.0,75000," Mar 18, 2021",5
+Honda City  1.5L DX 2020,Honda ,City ,2020.0,CVT,13000.0,40000," Mar 15, 2021",10
+Chevrolet Tahoe  LS 2WD 2020,Chevrolet ,Tahoe ,2020.0,Automatic,61000.0,145000," Mar 14, 2021",1
+Toyota Yaris  1.5L S (CVT) 2020,Toyota ,Yaris ,2020.0,Automatic,14000.0,46500," Mar 10, 2021",10
+Toyota Yaris Sedan  1.5L YX (CVT) 2020,Toyota ,Yaris ,2020.0,Automatic,14000.0,46000," Mar 10, 2021",10
+Kia Sportage 1.6L Base FWD 2019,Kia ,Sportage ,2019.0,Automatic,44000.0,70000," Mar 09, 2021",5
+Toyota Land Cruiser Prado  4.0L V6 TXL1 2019,Toyota ,Land ,2019.0,Automatic,22000.0,145000," Mar 09, 2021",1
+Lexus LX 570 2020,Lexus ,LX ,2020.0,Automatic,12903.0,195000," Mar 09, 2021",1
+Hyundai Creta  1.6L Basic 2020,Hyundai ,Creta ,2020.0,Automatic,16300.0,55000," Mar 08, 2021",10
+Lexus LX 570 2020,Lexus ,LX ,2020.0,Automatic,12310.0,195000," Mar 03, 2021",1
+Hyundai Accent  1.4L 2020,Hyundai ,Accent ,2020.0,Automatic,47000.0,35500," Mar 03, 2021",10
+Hyundai Sonata  1.6T GL 2019,Hyundai ,Sonata ,2019.0,Automatic,52000.0,63000," Mar 01, 2021",5
+Lexus LX 570 2019,Lexus ,LX ,2019.0,Automatic,4000.0,405000," Feb 28, 2021",1
+Hyundai Elantra  1.6L 2019,Hyundai ,Elantra ,2019.0,Automatic,53000.0,52000," Feb 28, 2021",10
+Hyundai Accent  1.4L 2019,Hyundai ,Accent ,2019.0,Automatic,52000.0,37000," Feb 28, 2021",10
+Jeep Compass  2.4L Longitude (4x4) 2019,Jeep ,Compass ,2019.0,Automatic,30468.0,92000," Feb 28, 2021",1
+Jeep Compass  2.4L Longitude (4x4) 2019,Jeep ,Compass ,2019.0,Automatic,30500.0,92000," Feb 28, 2021",1
+Hyundai Accent  1.4L Base 2020,Hyundai ,Accent ,2020.0,Automatic,44000.0,40000," Feb 26, 2021",10
+Honda City  1.5L DX 2020,Honda ,City ,2020.0,CVT,12500.0,40000," Feb 25, 2021",10
+Geely Coolray  1.5TD GS 2020,Geely ,Coolray ,2020.0,Manual,11000.0,47000," Feb 25, 2021",10
+Hyundai Tucson  1.6L GL 2020,Hyundai ,Tucson ,2020.0,Automatic,25000.0,77000," Feb 25, 2021",5
+Nissan Kicks  1.6 SV 2020,Nissan ,Kicks ,2020.0,Automatic,19005.0,60000," Feb 25, 2021",10
+Toyota Yaris  1.5L S (CVT) 2020,Toyota ,Yaris ,2020.0,CVT,6000.0,58000," Feb 23, 2021",10
+Toyota Yaris  1.3L SE 2019,Toyota ,Yaris ,2019.0,Automatic,185000.0,24000," Feb 22, 2021",10
+Hyundai Accent  1.4L 2019,Hyundai ,Accent ,2019.0,Automatic,100000.0,30000," Feb 22, 2021",10
+Hyundai Sonata  1.6T GL 2019,Hyundai ,Sonata ,2019.0,Automatic,59000.0,60000," Feb 22, 2021",5
+Toyota Hiace High Roof Van 2019,Toyota ,Hiace ,2019.0,Automatic,70000.0,130000," Feb 19, 2021",1
+Toyota Hiace  High Roof Van 2019,Toyota ,Hiace ,2019.0,Automatic,70000.0,130000," Feb 19, 2021",1
+Toyota Hiace 2019,Toyota ,Hiace ,2019.0,Automatic,70000.0,130000," Feb 19, 2021",1
+Toyota Rush  1.5L STD (7-Seater) 2019,Toyota ,Rush ,2019.0,Automatic,60000.0,55000," Feb 18, 2021",5

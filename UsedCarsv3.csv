@@ -1,0 +1,1045 @@
+Name1,Manufacturer,Model,Model_Year,Transmission,KM_Done,Price,Time,Rating
+Ford Taurus  3.5L V6 SEL 2010,Ford ,Taurus ,2010.0,Automatic,290000.0,28000," Apr 13, 2021",1
+Jeep Compass  Limited 2.4L 2016,Jeep ,Compass ,2016.0,Automatic,59000.0,62000," Apr 13, 2021",5
+Jeep Compass 2016,Jeep ,Compass ,2016.0,Automatic,59000.0,62000," Apr 13, 2021",5
+Toyota Camry  2.5L LE STD (178 HP) 2020,Toyota ,Camry ,2020.0,Automatic,40000.0,75000," Apr 13, 2021",5
+Hyundai Sonata  2.0L 2012,Hyundai ,Sonata ,2012.0,Automatic,162000.0,26000," Apr 13, 2021",10
+Chevrolet Cruze 1.8 LS 2017,Chevrolet ,Cruze ,2017.0,Automatic,160000.0,27000," Apr 13, 2021",10
+Ford Escape  2.5L S  2014,Ford ,Escape ,2014.0,Automatic,143220.0,33000," Apr 13, 2021",10
+Kia Sportage  2.0L Top 2014,Kia ,Sportage ,2014.0,Automatic,73709.0,47000," Apr 12, 2021",10
+Lexus LX 570 2017,Lexus ,LX ,2017.0,Automatic,1023.0,145000," Apr 12, 2021",1
+Lexus IS  350 Prestige 2016,Lexus ,IS ,2016.0,Automatic,13100.0,90000," Apr 12, 2021",5
+Chevrolet Caprice 2004,Chevrolet ,Caprice ,2004.0,Automatic,400000.0,8000," Apr 12, 2021",10
+GMC Yukon XL  SLE 2015,GMC ,Yukon ,2015.0,Automatic,59000.0,145000," Apr 12, 2021",1
+Toyota Hiace  2.7L Commuter GL High Roof LWB 2014,Toyota ,Hiace ,2014.0,Manual,133000.0,63000," Apr 12, 2021",1
+Toyota Corolla  1.8L GLI Hybrid 2018,Toyota ,Corolla ,2018.0,CVT,33000.0,68000," Apr 12, 2021",5
+Toyota Corolla  1.6L Smart 2010,Toyota ,Corolla ,2010.0,Manual,87000.0,18000," Apr 12, 2021",10
+GMC Yukon  SLE 2015,GMC ,Yukon ,2015.0,Automatic,59000.0,145000," Apr 11, 2021",1
+Ford Expedition 2019,Ford ,Expedition ,2019.0,Automatic,17000.0,195000," Apr 11, 2021",1
+MG GS 2018,MG ,GS ,2018.0,Automatic,60000.0,55000," Apr 11, 2021",5
+Dodge Durango  3.6L GT(RWD) 2020,Dodge ,Durango ,2020.0,CVT,36200.0,140000," Apr 10, 2021",1
+Honda Pilot 3.5L EX AWD 2008,Honda ,Pilot ,2008.0,Automatic,260000.0,10000," Apr 10, 2021",10
+Volkswagen Tiguan  2.0L R-Line 2014,Volkswagen ,Tiguan ,2014.0,Automatic,212000.0,45000," Apr 10, 2021",1
+Chevrolet Caprice 2006,Chevrolet ,Caprice ,2006.0,Automatic,100000.0,8000," Apr 10, 2021",10
+Chevrolet Caprice 2006,Chevrolet ,Caprice ,2006.0,Automatic,100000.0,8000," Apr 10, 2021",10
+Hyundai Elantra  1.8L 2013,Hyundai ,Elantra ,2013.0,Automatic,223000.0,26000," Apr 10, 2021",5
+New Honda Civic  1.6L DX 2018,Ford ,Honda ,2018.0,CVT,3340.0,55000," Apr 10, 2021",10
+New Honda Civic  1.6L DX 2018,Ford ,Honda ,2018.0,CVT,3350.0,55000," Apr 10, 2021",10
+Land Rover LR4  5.0 SE 2012,Land ,Rover ,2012.0,Automatic,163000.0,45000," Apr 10, 2021",5
+Ford Fusion  S 2010,Ford ,Fusion ,2010.0,Automatic,392000.0,15000," Apr 09, 2021",10
+Toyota Fortuner  2.7L 2015,Toyota ,Fortuner ,2015.0,Automatic,182000.0,52000," Apr 09, 2021",1
+Chevrolet Trailblazer 2007,Chevrolet ,Trailblazer ,2007.0,Automatic,225164.0,13000," Apr 09, 2021",10
+Dodge Durango  3.6L 2013,Dodge ,Durango ,2013.0,Automatic,126000.0,35000," Apr 09, 2021",10
+Toyota Yaris 2011,Toyota ,Yaris ,2011.0,Manual,299998.0,16000," Apr 08, 2021",1
+Dodge Durango  3.6L 2013,Dodge ,Durango ,2013.0,Automatic,125000.0,35000," Apr 08, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,112000.0,52500," Apr 08, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,127000.0,52500," Apr 08, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,110000.0,57750," Apr 08, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,51553.0,20999," Apr 08, 2021",10
+Ford Focus 2012,Ford ,Focus ,2012.0,Automatic,125041.0,16999," Apr 08, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,61105.0,20999," Apr 08, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,33643.0,20999," Apr 08, 2021",10
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,80040.0,58999," Apr 08, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,5318.0,95000," Apr 08, 2021",1
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,167219.0,39000," Apr 08, 2021",5
+Ford Taurus 2014,Ford ,Taurus ,2014.0,Automatic,99421.0,48000," Apr 08, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,55012.0,70000," Apr 08, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,23172.0,20999," Apr 08, 2021",10
+Ford Fusion 2017,Ford ,Fusion ,2017.0,Automatic,36900.0,64999," Apr 08, 2021",5
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66323.0,44999," Apr 08, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,31038.0,20999," Apr 08, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20190.0,20999," Apr 08, 2021",10
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,191302.0,33999," Apr 08, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,26993.0,20999," Apr 08, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20221.0,20999," Apr 08, 2021",10
+Ford Explorer 2012,Ford ,Explorer ,2012.0,Automatic,136586.0,44999," Apr 08, 2021",5
+Ford Explorer 2014,Ford ,Explorer ,2014.0,Automatic,53035.0,62999," Apr 08, 2021",5
+Lincoln MKS 2015,Lincoln ,MKS ,2015.0,Automatic,22456.0,79999," Apr 08, 2021",5
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,147600.0,39999," Apr 08, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,145150.0,55999," Apr 08, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,105100.0,53999," Apr 08, 2021",5
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,89000.0,54999," Apr 08, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,157000.0,43999," Apr 08, 2021",5
+Ford Focus 2014,Ford ,Focus ,2014.0,Automatic,93700.0,24999," Apr 08, 2021",10
+Ford EcoSport 2014,Ford ,EcoSport ,2014.0,Automatic,186000.0,23000," Apr 08, 2021",10
+Cadillac CTS 2014,Cadillac ,CTS ,2014.0,Automatic,107024.0,77000," Apr 08, 2021",1
+Cadillac CTS 2014,Cadillac ,CTS ,2014.0,Automatic,68000.0,83000," Apr 08, 2021",1
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,43961.0,54999," Apr 08, 2021",10
+Ford Explorer 2016,Ford ,Explorer ,2016.0,Automatic,18900.0,129999," Apr 08, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,132368.0,54999," Apr 08, 2021",5
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,43814.0,49999," Apr 08, 2021",10
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Apr 08, 2021",1
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,18652.0,50000," Apr 08, 2021",10
+Ford Explorer 2015,Ford ,Explorer ,2015.0,Automatic,68114.0,63999," Apr 08, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,1606.0,110000," Apr 08, 2021",1
+Ford Fusion 2014,Ford ,Fusion ,2014.0,Automatic,95395.0,33000," Apr 08, 2021",10
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,50400," Apr 08, 2021",5
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,3960.0,150150," Apr 08, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,39706.0,52500," Apr 08, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,42249.0,52500," Apr 08, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,90109.0,49999," Apr 08, 2021",5
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,49210.0,51999," Apr 08, 2021",10
+Ford Explorer 2017,Ford ,Explorer ,2017.0,Automatic,14000.0,159999," Apr 08, 2021",1
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,92618.0,59999," Apr 08, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,18815.0,51729," Apr 08, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,68281.0,90999," Apr 08, 2021",1
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,35000.0,94500," Apr 08, 2021",1
+Lincoln Continental 2017,Lincoln ,Continental ,2017.0,Automatic,10300.0,259999," Apr 08, 2021",1
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,17110.0,48999," Apr 08, 2021",10
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,14505.0,44999," Apr 08, 2021",10
+Ford Focus 2013,Ford ,Focus ,2013.0,Automatic,48854.0,20000," Apr 08, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,27202.0,44999," Apr 08, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,6214.0,102999," Apr 08, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,50287.0,51450," Apr 08, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,13333.0,94999," Apr 08, 2021",1
+Lincoln Navigator 2012,Lincoln ,Navigator ,2012.0,Automatic,102500.0,84000," Apr 08, 2021",1
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,26900.0,73000," Apr 08, 2021",5
+Ford Flex 2016,Ford ,Flex ,2016.0,Automatic,2700.0,93450," Apr 08, 2021",5
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,8184.0,24999," Apr 08, 2021",10
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,155766.0,54999," Apr 08, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,7796.0,156000," Apr 08, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1218.0,142999," Apr 08, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1130.0,100500," Apr 08, 2021",1
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,90033.0,22999," Apr 08, 2021",10
+Ford Expedition 2015,Ford ,Expedition ,2015.0,Automatic,92823.0,73499," Apr 08, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,92409.0,54999," Apr 08, 2021",5
+Lincoln MKX 2016,Lincoln ,MKX ,2016.0,Automatic,35667.0,167999," Apr 08, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,2129.0,155999," Apr 08, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,15878.0,189000," Apr 08, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Apr 08, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,2774.0,134999," Apr 08, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,22114.0,99999," Apr 08, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4422.0,134999," Apr 08, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,7000.0,142800," Apr 08, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,16834.0,149999," Apr 08, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,165500.0,52499," Apr 08, 2021",1
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,118300.0,52500," Apr 08, 2021",5
+Ford Focus 2017,Ford ,Focus ,2017.0,Automatic,1739.0,42000," Apr 08, 2021",10
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1243.0,165999," Apr 08, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,22603.0,45000," Apr 08, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,82604.0,52498," Apr 08, 2021",5
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,57750," Apr 08, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4483.0,120750," Apr 08, 2021",1
+Ford Edge 2014,Ford ,Edge ,2014.0,Automatic,56723.0,59999," Apr 08, 2021",5
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,83800.0,78750," Apr 08, 2021",1
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,35511.0,60900," Apr 08, 2021",5
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,2218.0,37800," Apr 08, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,116963.0,52498," Apr 08, 2021",5
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,29900.0,56000," Apr 08, 2021",10
+Lincoln MKT 2013,Lincoln ,MKT ,2013.0,Automatic,72339.0,72449," Apr 08, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,15276.0,64999," Apr 08, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,96338.0,49999," Apr 08, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,90660.0,52498," Apr 08, 2021",5
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66325.0,53549," Apr 08, 2021",5
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,115250.0,45000," Apr 08, 2021",5
+Lincoln MKT 2015,Lincoln ,MKT ,2015.0,Automatic,68317.0,99999," Apr 08, 2021",1
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,132239.0,41999," Apr 08, 2021",5
+Lincoln MKS 2014,Lincoln ,MKS ,2014.0,Automatic,21667.0,93450," Apr 08, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,10666.0,52500," Apr 08, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,28000.0,37800," Apr 08, 2021",10
+Toyota Camry 2007,Toyota ,Camry ,2007.0,Manual,269000.0,14000," Apr 08, 2021",5
+Toyota Camry 2007,Toyota ,Camry ,2007.0,Manual,269000.0,14000," Apr 07, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,112000.0,52500," Apr 07, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,51553.0,20999," Apr 07, 2021",10
+Ford Focus 2012,Ford ,Focus ,2012.0,Automatic,125041.0,16999," Apr 07, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,61105.0,20999," Apr 07, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,33643.0,20999," Apr 07, 2021",10
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,80040.0,58999," Apr 07, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,5318.0,95000," Apr 07, 2021",1
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,167219.0,39000," Apr 07, 2021",5
+Ford Taurus 2014,Ford ,Taurus ,2014.0,Automatic,99421.0,48000," Apr 07, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,55012.0,70000," Apr 07, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,23172.0,20999," Apr 07, 2021",10
+Ford Fusion 2017,Ford ,Fusion ,2017.0,Automatic,36900.0,64999," Apr 07, 2021",5
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66323.0,44999," Apr 07, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,31038.0,20999," Apr 07, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20190.0,20999," Apr 07, 2021",10
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,191302.0,33999," Apr 07, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,26993.0,20999," Apr 07, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20221.0,20999," Apr 07, 2021",10
+Ford Explorer 2012,Ford ,Explorer ,2012.0,Automatic,136586.0,44999," Apr 07, 2021",5
+Ford Explorer 2014,Ford ,Explorer ,2014.0,Automatic,53035.0,62999," Apr 07, 2021",5
+Lincoln MKS 2015,Lincoln ,MKS ,2015.0,Automatic,22456.0,79999," Apr 07, 2021",5
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,147600.0,39999," Apr 07, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,145150.0,55999," Apr 07, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,105100.0,53999," Apr 07, 2021",5
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,89000.0,54999," Apr 07, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,157000.0,43999," Apr 07, 2021",5
+Ford Focus 2014,Ford ,Focus ,2014.0,Automatic,93700.0,24999," Apr 07, 2021",10
+Ford EcoSport 2014,Ford ,EcoSport ,2014.0,Automatic,186000.0,23000," Apr 07, 2021",10
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,43961.0,54999," Apr 07, 2021",10
+Ford Explorer 2016,Ford ,Explorer ,2016.0,Automatic,18900.0,129999," Apr 07, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,132368.0,54999," Apr 07, 2021",5
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,43814.0,49999," Apr 07, 2021",10
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,18652.0,50000," Apr 07, 2021",10
+Ford Explorer 2015,Ford ,Explorer ,2015.0,Automatic,68114.0,63999," Apr 07, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,1606.0,110000," Apr 07, 2021",1
+Ford Fusion 2014,Ford ,Fusion ,2014.0,Automatic,95395.0,33000," Apr 07, 2021",10
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,50400," Apr 07, 2021",5
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,3960.0,150150," Apr 07, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,39706.0,52500," Apr 07, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,42249.0,52500," Apr 07, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,90109.0,49999," Apr 07, 2021",5
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,49210.0,51999," Apr 07, 2021",10
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,92618.0,59999," Apr 07, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,18815.0,51729," Apr 07, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,68281.0,90999," Apr 07, 2021",1
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,35000.0,94500," Apr 07, 2021",1
+Lincoln Continental 2017,Lincoln ,Continental ,2017.0,Automatic,10300.0,259999," Apr 07, 2021",1
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,17110.0,48999," Apr 07, 2021",10
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,14505.0,44999," Apr 07, 2021",10
+Ford Focus 2013,Ford ,Focus ,2013.0,Automatic,48854.0,20000," Apr 07, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,27202.0,44999," Apr 07, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,6214.0,102999," Apr 07, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,50287.0,51450," Apr 07, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,13333.0,94999," Apr 07, 2021",1
+Lincoln Navigator 2012,Lincoln ,Navigator ,2012.0,Automatic,102500.0,84000," Apr 07, 2021",1
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,26900.0,73000," Apr 07, 2021",5
+Ford Flex 2016,Ford ,Flex ,2016.0,Automatic,2700.0,93450," Apr 07, 2021",5
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,8184.0,24999," Apr 07, 2021",10
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,155766.0,54999," Apr 07, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,7796.0,156000," Apr 07, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1218.0,142999," Apr 07, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1130.0,100500," Apr 07, 2021",1
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,90033.0,22999," Apr 07, 2021",10
+Ford Expedition 2015,Ford ,Expedition ,2015.0,Automatic,92823.0,73499," Apr 07, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,92409.0,54999," Apr 07, 2021",5
+Lincoln MKX 2016,Lincoln ,MKX ,2016.0,Automatic,35667.0,167999," Apr 07, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,2129.0,155999," Apr 07, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,15878.0,189000," Apr 07, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Apr 07, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,2774.0,134999," Apr 07, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,22114.0,99999," Apr 07, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4422.0,134999," Apr 07, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,7000.0,142800," Apr 07, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,16834.0,149999," Apr 07, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,165500.0,52499," Apr 07, 2021",1
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,118300.0,52500," Apr 07, 2021",5
+Ford Focus 2017,Ford ,Focus ,2017.0,Automatic,1739.0,42000," Apr 07, 2021",10
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1243.0,165999," Apr 07, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,22603.0,45000," Apr 07, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,82604.0,52498," Apr 07, 2021",5
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,57750," Apr 07, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4483.0,120750," Apr 07, 2021",1
+Ford Edge 2014,Ford ,Edge ,2014.0,Automatic,56723.0,59999," Apr 07, 2021",5
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,83800.0,78750," Apr 07, 2021",1
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,35511.0,60900," Apr 07, 2021",5
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,2218.0,37800," Apr 07, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,116963.0,52498," Apr 07, 2021",5
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,29900.0,56000," Apr 07, 2021",10
+Lincoln MKT 2013,Lincoln ,MKT ,2013.0,Automatic,72339.0,72449," Apr 07, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,15276.0,64999," Apr 07, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,90660.0,52498," Apr 07, 2021",5
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,115250.0,45000," Apr 07, 2021",5
+Lincoln MKT 2015,Lincoln ,MKT ,2015.0,Automatic,68317.0,99999," Apr 07, 2021",1
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,132239.0,41999," Apr 07, 2021",5
+Lincoln MKS 2014,Lincoln ,MKS ,2014.0,Automatic,21667.0,93450," Apr 07, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,10666.0,52500," Apr 07, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,28000.0,37800," Apr 07, 2021",10
+Mitsubishi Outlander 2014,Mitsubishi ,Outlander ,2014.0,Automatic,204000.0,33000," Apr 07, 2021",5
+Lincoln Town Car 2021,Lincoln ,Town ,2021.0,Automatic,350000.0,10000," Apr 07, 2021",10
+Toyota Land Cruiser Prado  4.0L V6 VX1 2004,Toyota ,Land ,2004.0,Automatic,511000.0,34000," Apr 06, 2021",10
+Toyota Land Cruiser  4.0 GXR 2015,Toyota ,Land ,2015.0,Automatic,98500.0,165000," Apr 06, 2021",1
+Toyota Fortuner  2.7L EXR 2016,Toyota ,Fortuner ,2016.0,Automatic,97000.0,65000," Apr 06, 2021",5
+Toyota Fortuner  2.7L EXR 2016,Toyota ,Fortuner ,2016.0,Automatic,97000.0,65000," Apr 06, 2021",5
+Ford Taurus  2.0L EcoBoost SE 2018,Ford ,Taurus ,2018.0,Automatic,16000.0,85000," Apr 05, 2021",5
+Toyota Yaris 2011,Toyota ,Yaris ,2011.0,Automatic,123250.0,15000," Apr 05, 2021",10
+Kia Cerato  1.6L Top 2016,Kia ,Cerato ,2016.0,Automatic,130000.0,24000," Apr 05, 2021",10
+Hyundai Sonata  2.4L  Ace of Base 2013,Hyundai ,Sonata ,2013.0,Automatic,176000.0,32000," Apr 05, 2021",5
+Kia Carens  1.6L Base 2017,Kia ,Carens ,2017.0,Automatic,163000.0,30000," Apr 05, 2021",10
+Toyota Hilux  2.0 Double Cab 4x2 M/T 2009,Toyota ,Hilux ,2009.0,Manual,330000.0,30000," Apr 05, 2021",10
+Toyota Corolla  1.6 SE 2014,Toyota ,Corolla ,2014.0,Automatic,99000.0,42000," Apr 05, 2021",10
+Chevrolet Blazer 2006,Chevrolet ,Blazer ,2006.0,Automatic,400000.0,15000," Apr 04, 2021",10
+Lexus ES 350 2017,Lexus ,ES ,2017.0,Automatic,27000.0,140000," Apr 04, 2021",1
+Hyundai Genesis  3.8 Top 2016,Hyundai ,Genesis ,2016.0,Automatic,212000.0,90000," Apr 04, 2021",1
+Jeep Grand Cherokee  SRT8 2014,Jeep ,Grand ,2014.0,Automatic,100000.0,130000," Apr 04, 2021",1
+Toyota Corolla  1.6L Smart 2005,Toyota ,Corolla ,2005.0,CVT,355000.0,10500," Apr 03, 2021",10
+Geely Emgrand X7 2014,Geely ,Emgrand ,2014.0,Automatic,87000.0,11000," Apr 03, 2021",10
+Mitsubishi Pajero  3.5L 5 Door Mid 2015,Mitsubishi ,Pajero ,2015.0,Automatic,93000.0,50000," Apr 03, 2021",5
+Bentley Flying Spur  6.0L W12 S 2012,Bentley ,Flying ,2012.0,Automatic,85000.0,175000," Apr 02, 2021",1
+Kia Optima  2.0L T-GDI GT 2020,Kia ,Optima ,2020.0,Automatic,88000.0,65000," Apr 02, 2021",5
+Honda Civic 2002,Honda ,Civic ,2002.0,Automatic,420000.0,8500," Apr 02, 2021",10
+Toyota Sequoia 5.7L V8 2012,Toyota ,Sequoia ,2012.0,Automatic,102000.0,85000," Apr 01, 2021",1
+Chevrolet Cruze  1.6L 2017,Chevrolet ,Cruze ,2017.0,Manual,130000.0,24000," Mar 31, 2021",10
+MG HS 2021,MG ,HS ,2021.0,Automatic,2500.0,90000," Mar 31, 2021",5
+Kia Rio  4 Door Sedan 1.4L 2008,Kia ,Rio ,2008.0,Manual,200000.0,8000," Mar 31, 2021",10
+Nissan Armada  4WD LE 2006,Nissan ,Armada ,2006.0,Automatic,300800.0,17500," Mar 31, 2021",1
+Chevrolet Lumina 2010,Chevrolet ,Lumina ,2010.0,Automatic,201999.0,15000," Mar 31, 2021",10
+Ford Fusion  2.5L SE (Cloth) 2015,Ford ,Fusion ,2015.0,Automatic,110000.0,36000," Mar 31, 2021",10
+Ford EcoSport  1.0T Titanium 2017,Ford ,EcoSport ,2017.0,Automatic,100800.0,35000," Mar 31, 2021",10
+New Hyundai Creta  1.6L Mid 2017,Ford ,Hyundai ,2017.0,Automatic,65000.0,52000," Mar 30, 2021",5
+New MG HS 2021,Ford ,MG ,2021.0,Automatic,2506.0,96000," Mar 30, 2021",1
+Chevrolet Cruze  LS A/T 2013,Chevrolet ,Cruze ,2013.0,Automatic,122000.0,14000," Mar 30, 2021",10
+Chevrolet Cruze  LS A/T 2013,Chevrolet ,Cruze ,2013.0,Automatic,122000.0,14000," Mar 30, 2021",10
+Hyundai Genesis Coupe  3.8L 2011,Hyundai ,Genesis ,2011.0,Automatic,240000.0,28000," Mar 30, 2021",1
+Renault Duster  SE 2014,Renault ,Duster ,2014.0,Manual,125000.0,20000," Mar 30, 2021",10
+Honda Civic 2002,Honda ,Civic ,2002.0,Automatic,420000.0,9000," Mar 29, 2021",10
+Kia Optima  2.0L 2015,Kia ,Optima ,2015.0,Automatic,223000.0,28900," Mar 29, 2021",5
+Ford Explorer  2.3L EcoBoost XLT (Mid Option) AWD 2010,Ford ,Explorer ,2010.0,Automatic,270000.0,17009," Mar 29, 2021",1
+Lexus GX 460 2011,Lexus ,GX ,2011.0,Automatic,138000.0,95000," Mar 29, 2021",1
+Hyundai Accent  1.4L GL Hatch 2010,Hyundai ,Accent ,2010.0,Automatic,167000.0,17000," Mar 29, 2021",10
+Toyota Land Cruiser Prado  4.0L V6 TXL1 2016,Toyota ,Land ,2016.0,Automatic,200000.0,85000," Mar 29, 2021",1
+Toyota Corolla  1.6L XLI 2013,Toyota ,Corolla ,2013.0,CVT,259000.0,26500," Mar 29, 2021",1
+Toyota Fortuner  2.7L GX2 (4X4) 2020,Toyota ,Fortuner ,2020.0,Automatic,127000.0,115000," Mar 29, 2021",1
+Hyundai Accent  1.4L GL 2015,Hyundai ,Accent ,2015.0,Automatic,278000.0,18000," Mar 28, 2021",1
+Chevrolet Impala  LT 2014,Chevrolet ,Impala ,2014.0,Automatic,186000.0,46000," Mar 28, 2021",1
+Geely Emgrand X7  2.4L Advance 2016,Geely ,Emgrand ,2016.0,Automatic,78000.0,23000," Mar 28, 2021",10
+Nissan Sunny Classic  EX Saloon 2011,Nissan ,Sunny ,2011.0,Automatic,296000.0,14500," Mar 28, 2021",1
+Dodge Charger 2017,Dodge ,Charger ,2017.0,Automatic,34000.0,175000," Mar 28, 2021",1
+Maserati Quattroporte  S Q4 2016,Maserati ,Quattroporte ,2016.0,Automatic,26000.0,160000," Mar 27, 2021",1
+Toyota Fortuner 2015,Toyota ,Fortuner ,2015.0,Automatic,65000.0,69000," Mar 27, 2021",5
+Toyota Camry 2016,Toyota ,Camry ,2016.0,Automatic,53500.0,50000," Mar 26, 2021",10
+GMC Acadia  3.6L All Wheel Drive 2010,GMC ,Acadia ,2010.0,Automatic,210000.0,22000," Mar 26, 2021",10
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,65500.0,76000," Mar 26, 2021",5
+Nissan Pathfinder 2010,Nissan ,Pathfinder ,2010.0,Automatic,208750.0,26000," Mar 25, 2021",5
+Toyota Yaris Sedan  1.5L Y (CVT) 2018,Toyota ,Yaris ,2018.0,Automatic,35000.0,38000," Mar 25, 2021",10
+Toyota Fortuner 2015,Toyota ,Fortuner ,2015.0,Automatic,98400.0,75000," Mar 25, 2021",1
+Toyota Yaris 2015,Toyota ,Yaris ,2015.0,Automatic,90900.0,22500," Mar 25, 2021",10
+Nissan Pathfinder SL 4WD 2010,Nissan ,Pathfinder ,2010.0,Automatic,208750.0,26000," Mar 25, 2021",5
+Nissan Pathfinder  S 4WD 2010,Nissan ,Pathfinder ,2010.0,Automatic,208750.0,26000," Mar 24, 2021",5
+Nissan Pathfinder  3.5L S 2WD 2010,Nissan ,Pathfinder ,2010.0,Automatic,208750.0,26000," Mar 24, 2021",5
+Ford Explorer  XLT 2008,Ford ,Explorer ,2008.0,Automatic,153000.0,24000," Mar 24, 2021",10
+Ford Explorer  XLT 2008,Ford ,Explorer ,2008.0,Automatic,153000.0,23996," Mar 24, 2021",10
+Ford Expedition EL  3.5L XLT 2010,Ford ,Expedition ,2010.0,Automatic,293000.0,30000," Mar 23, 2021",1
+Toyota Fortuner 2.7L EXR 2015,Toyota ,Fortuner ,2015.0,Automatic,153500.0,59999," Mar 23, 2021",1
+Toyota Fortuner 2015,Toyota ,Fortuner ,2015.0,Automatic,985000.0,75000," Mar 23, 2021",10
+New Toyota Fortuner 2015,Ford ,Toyota ,2015.0,Automatic,152500.0,60000," Mar 23, 2021",1
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,112000.0,52500," Mar 23, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,51553.0,20999," Mar 23, 2021",10
+Ford Focus 2012,Ford ,Focus ,2012.0,Automatic,125041.0,16999," Mar 23, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,61105.0,20999," Mar 23, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,33643.0,20999," Mar 23, 2021",10
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,80040.0,58999," Mar 23, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,5318.0,95000," Mar 23, 2021",1
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,167219.0,39000," Mar 23, 2021",5
+Ford Taurus 2014,Ford ,Taurus ,2014.0,Automatic,99421.0,48000," Mar 23, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,55012.0,70000," Mar 23, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,23172.0,20999," Mar 23, 2021",10
+Ford Fusion 2017,Ford ,Fusion ,2017.0,Automatic,36900.0,64999," Mar 23, 2021",5
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66323.0,44999," Mar 23, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,31038.0,20999," Mar 23, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20190.0,20999," Mar 23, 2021",10
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,191302.0,33999," Mar 23, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,26993.0,20999," Mar 23, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20221.0,20999," Mar 23, 2021",10
+Ford Explorer 2012,Ford ,Explorer ,2012.0,Automatic,136586.0,44999," Mar 23, 2021",5
+Ford Explorer 2014,Ford ,Explorer ,2014.0,Automatic,53035.0,62999," Mar 23, 2021",5
+Lincoln MKS 2015,Lincoln ,MKS ,2015.0,Automatic,22456.0,79999," Mar 23, 2021",5
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,147600.0,39999," Mar 23, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,145150.0,55999," Mar 23, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,105100.0,53999," Mar 23, 2021",5
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,89000.0,54999," Mar 23, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,157000.0,43999," Mar 23, 2021",5
+Ford Focus 2014,Ford ,Focus ,2014.0,Automatic,93700.0,24999," Mar 23, 2021",10
+Ford EcoSport 2014,Ford ,EcoSport ,2014.0,Automatic,186000.0,23000," Mar 23, 2021",10
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,43961.0,54999," Mar 23, 2021",10
+Ford Explorer 2016,Ford ,Explorer ,2016.0,Automatic,18900.0,129999," Mar 23, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,132368.0,54999," Mar 23, 2021",5
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,43814.0,49999," Mar 23, 2021",10
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,18652.0,50000," Mar 23, 2021",10
+Ford Explorer 2015,Ford ,Explorer ,2015.0,Automatic,68114.0,63999," Mar 23, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,1606.0,110000," Mar 23, 2021",1
+Ford Fusion 2014,Ford ,Fusion ,2014.0,Automatic,95395.0,33000," Mar 23, 2021",10
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,50400," Mar 23, 2021",5
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,3960.0,150150," Mar 23, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,39706.0,52500," Mar 23, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,42249.0,52500," Mar 23, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,90109.0,49999," Mar 23, 2021",5
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,49210.0,51999," Mar 23, 2021",10
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,92618.0,59999," Mar 23, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,18815.0,51729," Mar 23, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,68281.0,90999," Mar 23, 2021",1
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,35000.0,94500," Mar 23, 2021",1
+Lincoln Continental 2017,Lincoln ,Continental ,2017.0,Automatic,10300.0,259999," Mar 23, 2021",1
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,17110.0,48999," Mar 23, 2021",10
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,14505.0,44999," Mar 23, 2021",10
+Ford Focus 2013,Ford ,Focus ,2013.0,Automatic,48854.0,20000," Mar 23, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,27202.0,44999," Mar 23, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,6214.0,102999," Mar 23, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,50287.0,51450," Mar 23, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,13333.0,94999," Mar 23, 2021",1
+Lincoln Navigator 2012,Lincoln ,Navigator ,2012.0,Automatic,102500.0,84000," Mar 23, 2021",1
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,26900.0,73000," Mar 23, 2021",5
+Ford Flex 2016,Ford ,Flex ,2016.0,Automatic,2700.0,93450," Mar 23, 2021",5
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,8184.0,24999," Mar 23, 2021",10
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,155766.0,54999," Mar 23, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,7796.0,156000," Mar 23, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1218.0,142999," Mar 23, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1130.0,100500," Mar 23, 2021",1
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,90033.0,22999," Mar 23, 2021",10
+Ford Expedition 2015,Ford ,Expedition ,2015.0,Automatic,92823.0,73499," Mar 23, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,92409.0,54999," Mar 23, 2021",5
+Lincoln MKX 2016,Lincoln ,MKX ,2016.0,Automatic,35667.0,167999," Mar 23, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,2129.0,155999," Mar 23, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,15878.0,189000," Mar 23, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Mar 23, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,2774.0,134999," Mar 23, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,22114.0,99999," Mar 23, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4422.0,134999," Mar 23, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,7000.0,142800," Mar 23, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,16834.0,149999," Mar 23, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,165500.0,52499," Mar 23, 2021",1
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,118300.0,52500," Mar 23, 2021",5
+Ford Focus 2017,Ford ,Focus ,2017.0,Automatic,1739.0,42000," Mar 23, 2021",10
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1243.0,165999," Mar 23, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,22603.0,45000," Mar 23, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,82604.0,52498," Mar 23, 2021",5
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,57750," Mar 23, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4483.0,120750," Mar 23, 2021",1
+Ford Edge 2014,Ford ,Edge ,2014.0,Automatic,56723.0,59999," Mar 23, 2021",5
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,83800.0,78750," Mar 23, 2021",1
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,35511.0,60900," Mar 23, 2021",5
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,2218.0,37800," Mar 23, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,116963.0,52498," Mar 23, 2021",5
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,29900.0,56000," Mar 23, 2021",10
+Lincoln MKT 2013,Lincoln ,MKT ,2013.0,Automatic,72339.0,72449," Mar 23, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,15276.0,64999," Mar 23, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,90660.0,52498," Mar 23, 2021",5
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,115250.0,45000," Mar 23, 2021",5
+Lincoln MKT 2015,Lincoln ,MKT ,2015.0,Automatic,68317.0,99999," Mar 23, 2021",1
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,132239.0,41999," Mar 23, 2021",5
+Lincoln MKS 2014,Lincoln ,MKS ,2014.0,Automatic,21667.0,93450," Mar 23, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,10666.0,52500," Mar 23, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,28000.0,37800," Mar 23, 2021",10
+Renault Symbol 2015,Renault ,Symbol ,2015.0,Manual,87000.0,19000," Mar 23, 2021",10
+Hyundai Accent  1.6L GLS 2016,Hyundai ,Accent ,2016.0,Automatic,205000.0,23000," Mar 23, 2021",10
+GMC Yukon XL  GMC Yukon XL 1500 5.3L RWD 2012,GMC ,Yukon ,2012.0,Automatic,63000.0,90000," Mar 23, 2021",1
+Toyota Camry  2.5L SE 2016,Toyota ,Camry ,2016.0,Automatic,53500.0,55000," Mar 22, 2021",5
+Toyota Corolla  1.6L Smart 2011,Toyota ,Corolla ,2011.0,CVT,130000.0,17000," Mar 22, 2021",10
+Nissan Sentra  1.6L S 2014,Nissan ,Sentra ,2014.0,CVT,131000.0,30000," Mar 22, 2021",10
+Jeep Grand Cherokee  Overland 5.7L 2015,Jeep ,Grand ,2015.0,Automatic,105000.0,107000," Mar 21, 2021",1
+Jeep Grand Cherokee  Overland 5.7L 2015,Jeep ,Grand ,2015.0,Automatic,104000.0,105000," Mar 21, 2021",1
+Chevrolet Trailblazer 2013,Chevrolet ,Trailblazer ,2013.0,Automatic,175000.0,28000," Mar 21, 2021",10
+Dodge Durango  SXT 3.6L 2016,Dodge ,Durango ,2016.0,Automatic,238000.0,52000," Mar 21, 2021",1
+Kia Cerato  1.6L Base 2015,Kia ,Cerato ,2015.0,Automatic,190000.0,26000," Mar 21, 2021",10
+Toyota Corolla  1.6L XLI 2020,Toyota ,Corolla ,2020.0,CVT,89000.0,70000," Mar 21, 2021",1
+Dodge Charger  SE 2013,Dodge ,Charger ,2013.0,Automatic,186000.0,36000," Mar 21, 2021",5
+Toyota Hilux  2.0 Double Cab 4x2 M/T 2010,Toyota ,Hilux ,2010.0,Manual,390000.0,39000," Mar 21, 2021",10
+Toyota Camry  2.5L GLX 2009,Toyota ,Camry ,2009.0,Automatic,319000.0,26000," Mar 21, 2021",1
+GMC Yukon  5.3L SLE (2WD) 2017,GMC ,Yukon ,2017.0,Automatic,119000.0,155000," Mar 21, 2021",1
+Chevrolet Impala  LS 2014,Chevrolet ,Impala ,2014.0,Automatic,211000.0,50000," Mar 20, 2021",1
+Chevrolet Epica 2009,Chevrolet ,Epica ,2009.0,Automatic,244000.0,9000," Mar 20, 2021",10
+Chevrolet Blazer  3.6L V6 2LT (AWD) 2007,Chevrolet ,Blazer ,2007.0,Automatic,605679.0,13000," Mar 19, 2021",10
+Toyota Yaris  1.5L SE 2009,Toyota ,Yaris ,2009.0,Automatic,2090.0,1250," Mar 19, 2021",10
+Ford Focus  1.6L  Ambiente (Sedan) 2014,Ford ,Focus ,2014.0,Automatic,110000.0,25000," Mar 19, 2021",10
+Toyota Yaris Sedan  1.3 S 2010,Toyota ,Yaris ,2010.0,Automatic,160000.0,18000," Mar 19, 2021",10
+Nissan Altima  2.5 S 2008,Nissan ,Altima ,2008.0,CVT,201000.0,17500," Mar 19, 2021",10
+Ford Expedition EL  3.5L XL 2010,Ford ,Expedition ,2010.0,Automatic,3930.0,30000," Mar 19, 2021",10
+Toyota Camry  2.5L Grande Hybrid (212 HP) 2019,Toyota ,Camry ,2019.0,CVT,56000.0,79000," Mar 19, 2021",5
+Honda Civic  1.6L LX Sport 2019,Honda ,Civic ,2019.0,CVT,150000.0,37000," Mar 19, 2021",5
+Toyota Fortuner  2.7L EXR 2012,Toyota ,Fortuner ,2012.0,Automatic,109887.0,56000," Mar 19, 2021",5
+Ford Taurus  3.5L V6 SE 2014,Ford ,Taurus ,2014.0,Automatic,300000.0,40000," Mar 18, 2021",1
+Toyota Sequoia  5.7L VXR 2016,Toyota ,Sequoia ,2016.0,Automatic,207000.0,125000," Mar 18, 2021",1
+Toyota Corolla  1.6L XLI 2020,Toyota ,Corolla ,2020.0,CVT,31000.0,65000," Mar 18, 2021",5
+GMC Envoy 2005,GMC ,Envoy ,2005.0,Automatic,200000.0,19000," Mar 18, 2021",10
+Geely Emgrand 7 2017,Geely ,Emgrand ,2017.0,Automatic,32000.0,49000," Mar 18, 2021",10
+Nissan Altima  2.5 S 2020,Nissan ,Altima ,2020.0,CVT,16000.0,75000," Mar 18, 2021",5
+Hyundai Accent 1.4L GL 2017,Hyundai ,Accent ,2017.0,Automatic,78000.0,30000," Mar 18, 2021",10
+Toyota Land Cruiser  4.6L GXR 2010,Toyota ,Land ,2010.0,Automatic,316637.0,95000," Mar 18, 2021",10
+Toyota Camry 2.5L S 2017,Toyota ,Camry ,2017.0,Automatic,145000.0,57000," Mar 18, 2021",1
+Nissan Sunny  1.5L Base 2009,Nissan ,Sunny ,2009.0,Automatic,270000.0,13000," Mar 17, 2021",5
+Ford Figo 2017,Ford ,Figo ,2017.0,Automatic,78000.0,24000," Mar 17, 2021",10
+Toyota Yaris  1.5L S (CVT) 2009,Toyota ,Yaris ,2009.0,CVT,200000.0,14000," Mar 17, 2021",10
+Hyundai Elantra  1.6L 2011,Hyundai ,Elantra ,2011.0,Automatic,25800.0,17500," Mar 17, 2021",10
+Ford Explorer  3.5L V6 XLT 2010,Ford ,Explorer ,2010.0,Automatic,110000.0,25000," Mar 15, 2021",10
+Subaru Legacy  2.5i Premium 2011,Subaru ,Legacy ,2011.0,Automatic,220000.0,24000," Mar 15, 2021",5
+Chevrolet Malibu  2.0L LT 2016,Chevrolet ,Malibu ,2016.0,Automatic,130000.0,40000," Mar 15, 2021",5
+Toyota Corolla  1.6L GLI 2014,Toyota ,Corolla ,2014.0,Automatic,161500.0,35000," Mar 15, 2021",5
+Chevrolet Lumina  SS 2006,Chevrolet ,Lumina ,2006.0,Automatic,460000.0,5500," Mar 15, 2021",10
+Chevrolet Malibu  2.0L LTZ 2011,Chevrolet ,Malibu ,2011.0,Automatic,210000.0,12000," Mar 15, 2021",10
+Honda City  1.5L DX 2020,Honda ,City ,2020.0,CVT,13000.0,40000," Mar 15, 2021",10
+Toyota Yaris  1.3L SE 2013,Toyota ,Yaris ,2013.0,Automatic,181000.0,17000," Mar 15, 2021",10
+Toyota Yaris  1.3L SE 2016,Toyota ,Yaris ,2016.0,Automatic,168000.0,24500," Mar 15, 2021",10
+Hyundai Sonata  2.5L GDI 8AT Full option 2014,Hyundai ,Sonata ,2014.0,Automatic,300000.0,23000," Mar 15, 2021",1
+Land Rover LR2 2009,Land ,Rover ,2009.0,Automatic,130000.0,25000," Mar 15, 2021",10
+Chevrolet Tahoe  LS 2WD 2020,Chevrolet ,Tahoe ,2020.0,Automatic,61000.0,145000," Mar 14, 2021",1
+Toyota Fortuner  2.7L 2011,Toyota ,Fortuner ,2011.0,Automatic,228000.0,75000," Mar 13, 2021",1
+Chevrolet Tahoe  LS 2015,Chevrolet ,Tahoe ,2015.0,Automatic,108000.0,115000," Mar 13, 2021",1
+Chevrolet Tahoe  LS 2015,Chevrolet ,Tahoe ,2015.0,Automatic,108000.0,115000," Mar 13, 2021",1
+Mitsubishi Pajero  3.0L GL 5 Door 2005,Mitsubishi ,Pajero ,2005.0,Automatic,277000.0,13000," Mar 12, 2021",5
+Chevrolet Trailblazer LT 4WD 2008,Chevrolet ,Trailblazer ,2008.0,Automatic,255000.0,12500," Mar 12, 2021",10
+Ford Focus  1.6L  Ambiente 2010,Ford ,Focus ,2010.0,Automatic,287700.0,12500," Mar 12, 2021",1
+Land Rover Discovery Sport  SE 2016,Land ,Rover ,2016.0,Automatic,45980.0,115000," Mar 11, 2021",1
+Hyundai Elantra 2014,Hyundai ,Elantra ,2014.0,Automatic,111000.0,30000," Mar 11, 2021",10
+Nissan Sentra  1.6L S 2016,Nissan ,Sentra ,2016.0,Automatic,102000.0,36998," Mar 10, 2021",10
+Hyundai Genesis Coupe  3.8L 2010,Hyundai ,Genesis ,2010.0,Automatic,95500.0,35000," Mar 10, 2021",10
+Hyundai Genesis Coupe  3.8L 2010,Hyundai ,Genesis ,2010.0,Automatic,95500.0,35000," Mar 10, 2021",10
+Toyota Yaris  1.5L S (CVT) 2020,Toyota ,Yaris ,2020.0,Automatic,14000.0,46500," Mar 10, 2021",10
+Toyota Yaris Sedan  1.5L YX (CVT) 2020,Toyota ,Yaris ,2020.0,Automatic,14000.0,46000," Mar 10, 2021",10
+Chevrolet Traverse  3.6L LS (FWD) 2013,Chevrolet ,Traverse ,2013.0,Automatic,189000.0,32000," Mar 09, 2021",5
+Kia Sportage 1.6L Base FWD 2019,Kia ,Sportage ,2019.0,Automatic,44000.0,70000," Mar 09, 2021",5
+Toyota Yaris 2017,Toyota ,Yaris ,2017.0,Automatic,75000.0,35000," Mar 09, 2021",10
+Chevrolet Cruze  1.6L 2013,Chevrolet ,Cruze ,2013.0,Automatic,112600.0,21000," Mar 09, 2021",10
+Maserati Quattroporte  3.8T V8 GTS GranLusso 2015,Maserati ,Quattroporte ,2015.0,Automatic,56000.0,180000," Mar 09, 2021",1
+Bentley Bentayga  6.0L W12 2017,Bentley ,Bentayga ,2017.0,Automatic,77000.0,550000," Mar 09, 2021",1
+Hyundai Elantra  1.6L 2005,Hyundai ,Elantra ,2005.0,Automatic,400000.0,11000," Mar 09, 2021",10
+Toyota Land Cruiser Prado  4.0L V6 TXL1 2019,Toyota ,Land ,2019.0,Automatic,22000.0,145000," Mar 09, 2021",1
+Nissan Sentra  1.6L S 2015,Nissan ,Sentra ,2015.0,Automatic,120000.0,26000," Mar 09, 2021",10
+Renault Duster   PE 2015,Renault ,Duster ,2015.0,Manual,210000.0,20000," Mar 09, 2021",10
+Lexus LX 570 2020,Lexus ,LX ,2020.0,Automatic,12903.0,195000," Mar 09, 2021",1
+Toyota Fortuner  2.7L 2015,Toyota ,Fortuner ,2015.0,Automatic,275000.0,54000," Mar 09, 2021",1
+Toyota Fortuner  2.7L 2009,Toyota ,Fortuner ,2009.0,Automatic,225000.0,32000," Mar 09, 2021",1
+Toyota Land Cruiser Prado  2.7L TX 2012,Toyota ,Land ,2012.0,Automatic,248000.0,65000," Mar 09, 2021",1
+Chevrolet Cruze  1.6L 2015,Chevrolet ,Cruze ,2015.0,Manual,135000.0,19000," Mar 09, 2021",10
+Lincoln Navigator  3.5 EL 2005,Lincoln ,Navigator ,2005.0,Automatic,300000.0,15000," Mar 09, 2021",1
+Honda Accord  3.5L V6 EX 2006,Honda ,Accord ,2006.0,Automatic,260000.0,14000," Mar 09, 2021",5
+Chevrolet Cruze  1.6L 2012,Chevrolet ,Cruze ,2012.0,Manual,170000.0,13000," Mar 09, 2021",10
+Kia Rio  4 Door Sedan 1.4L 2014,Kia ,Rio ,2014.0,Automatic,290000.0,13500," Mar 09, 2021",1
+Dodge Challenger  3.6L SXT 2016,Dodge ,Challenger ,2016.0,Automatic,153000.0,73000," Mar 09, 2021",1
+Dodge Durango   Express 3.6L 2016,Dodge ,Durango ,2016.0,Automatic,160000.0,62000," Mar 09, 2021",1
+Nissan Tiida  1.6 S 2011,Nissan ,Tiida ,2011.0,Automatic,128000.0,15000," Mar 09, 2021",10
+Hyundai Elantra  1.6L 2012,Hyundai ,Elantra ,2012.0,Automatic,145000.0,17000," Mar 08, 2021",10
+Kia Carens  1.6 EX 2008,Kia ,Carens ,2008.0,Automatic,189000.0,17000," Mar 08, 2021",10
+Hyundai Creta  1.6L Basic 2020,Hyundai ,Creta ,2020.0,Automatic,16300.0,55000," Mar 08, 2021",10
+Honda Accord  1.5T EX 2006,Honda ,Accord ,2006.0,Automatic,260000.0,14000," Mar 08, 2021",5
+Nissan Sunny  1.6L SL 2012,Nissan ,Sunny ,2012.0,CVT,246000.0,20000," Mar 08, 2021",5
+Ford Focus  1.6L 2014,Ford ,Focus ,2014.0,Automatic,197000.0,16000," Mar 08, 2021",10
+Kia Cadenza  3.5L Top 2015,Kia ,Cadenza ,2015.0,Automatic,198000.0,55000," Mar 08, 2021",1
+Toyota Camry  2.5L GLX 2007,Toyota ,Camry ,2007.0,Automatic,182000.0,18000," Mar 08, 2021",10
+Kia Rio Hatchback  1.4 Base 2014,Kia ,Rio ,2014.0,Automatic,169000.0,26000," Mar 08, 2021",10
+Renault Logan  Basic 2012,Renault ,Logan ,2012.0,Automatic,242000.0,9000," Mar 08, 2021",10
+Hyundai Tucson  1.6L GL 2012,Hyundai ,Tucson ,2012.0,Automatic,150000.0,35000," Mar 08, 2021",5
+Honda Odyssey 2006,Honda ,Odyssey ,2006.0,Automatic,400327.0,12000," Mar 08, 2021",10
+Toyota Corolla  1.6L XLI 2017,Toyota ,Corolla ,2017.0,CVT,75000.0,36000," Mar 07, 2021",10
+Hyundai Sonata  1.6T GL 2014,Hyundai ,Sonata ,2014.0,Automatic,190000.0,38000," Mar 07, 2021",5
+Toyota Corolla  1.6L XLI 2017,Toyota ,Corolla ,2017.0,CVT,83000.0,33500," Mar 07, 2021",10
+Lexus GS 460 2011,Lexus ,GS ,2011.0,Automatic,170000.0,56500," Mar 07, 2021",1
+Toyota Corolla  1.6L XLI 2013,Toyota ,Corolla ,2013.0,CVT,181000.0,23000," Mar 07, 2021",10
+Volkswagen Jetta  1.6 Sedan 2016,Volkswagen ,Jetta ,2016.0,Manual,192000.0,28000," Mar 07, 2021",5
+Nissan Tiida  1.6 S 2008,Nissan ,Tiida ,2008.0,Automatic,264000.0,8500," Mar 07, 2021",10
+Toyota Camry  2.5L GLE Touring (204 HP) 2011,Toyota ,Camry ,2011.0,Automatic,236000.0,26000," Mar 07, 2021",1
+Kia Carens  1.6 EX 2008,Kia ,Carens ,2008.0,Automatic,189000.0,17000," Mar 07, 2021",10
+Ford Edge  Ambient 2007,Ford ,Edge ,2007.0,Automatic,233000.0,16000," Mar 07, 2021",10
+Toyota Camry 2.5L GLE 178 HP 2006,Toyota ,Camry ,2006.0,Automatic,550000.0,17000," Mar 07, 2021",10
+Nissan Pathfinder 2014,Nissan ,Pathfinder ,2014.0,Automatic,142000.0,63000," Mar 07, 2021",1
+Ford Explorer  3.5L V6 Base (AWD) 2013,Ford ,Explorer ,2013.0,Automatic,298000.0,40000," Mar 06, 2021",1
+Cadillac DTS 2000,Cadillac ,DTS ,2000.0,Automatic,97000.0,16000," Mar 06, 2021",10
+Mercury Mountaineer 2008,Mercury ,Mountaineer ,2008.0,Automatic,280000.0,16500," Mar 06, 2021",1
+Cadillac ATS  2.0T Standard 2018,Cadillac ,ATS ,2018.0,Automatic,450000.0,45852," Mar 06, 2021",10
+Ford Edge 3.5L SEL 2011,Ford ,Edge ,2011.0,Automatic,297000.0,30000," Mar 06, 2021",1
+Kia Cerato 2016,Kia ,Cerato ,2016.0,Automatic,225000.0,25000," Mar 04, 2021",5
+Toyota Yaris 2015,Toyota ,Yaris ,2015.0,Automatic,120000.0,25000," Mar 04, 2021",10
+Hyundai Accent  1.4L GL 2015,Hyundai ,Accent ,2015.0,Automatic,119998.0,25000," Mar 04, 2021",10
+Hyundai Accent  1.4L 2002,Hyundai ,Accent ,2002.0,Automatic,431000.0,10000," Mar 04, 2021",10
+Mitsubishi Pajero  3.0L GL 5 Door 2015,Mitsubishi ,Pajero ,2015.0,Automatic,308000.0,40000," Mar 04, 2021",1
+Hyundai Accent  1.6L 2017,Hyundai ,Accent ,2017.0,Automatic,189000.0,29000," Mar 04, 2021",5
+Nissan Pathfinder  3.5L S 2WD 2007,Nissan ,Pathfinder ,2007.0,Automatic,267000.0,16000," Mar 04, 2021",5
+Hyundai Sonata  1.6T GL 2016,Hyundai ,Sonata ,2016.0,Automatic,190000.0,38000," Mar 04, 2021",5
+Hyundai Elantra  1.6L 2014,Hyundai ,Elantra ,2014.0,Automatic,173000.0,17000," Mar 04, 2021",10
+Kia Cerato  1.6L Base 2014,Kia ,Cerato ,2014.0,Automatic,134000.0,21000," Mar 04, 2021",10
+Geely Emgrand 7 HB  Base 2012,Geely ,Emgrand ,2012.0,Automatic,160000.0,10000," Mar 04, 2021",10
+Chevrolet Traverse  2LT 2014,Chevrolet ,Traverse ,2014.0,Automatic,274000.0,38000," Mar 04, 2021",1
+Chevrolet Lumina  SS 2008,Chevrolet ,Lumina ,2008.0,Automatic,300000.0,14000," Mar 04, 2021",1
+Toyota Hilux  2.0 Double Cab 4x2 M/T 2017,Toyota ,Hilux ,2017.0,Manual,150000.0,63000," Mar 04, 2021",1
+Renault Duster   PE 2016,Renault ,Duster ,2016.0,Manual,136000.0,26000," Mar 04, 2021",10
+Volkswagen Polo  Sedan S 2005,Volkswagen ,Polo ,2005.0,Automatic,216000.0,8900," Mar 04, 2021",10
+Land Rover Range Rover Sport  5.0L SC V8 Autobiography Dynamic (510 PS) 2007,Land ,Rover ,2007.0,Automatic,142000.0,39000," Mar 04, 2021",5
+Toyota Camry  2.5L GLX 2016,Toyota ,Camry ,2016.0,Automatic,160000.0,62000," Mar 04, 2021",1
+Hyundai Tucson  1.6L GL 2014,Hyundai ,Tucson ,2014.0,Automatic,276000.0,35000," Mar 04, 2021",1
+Nissan Maxima  3.5 SV 2010,Nissan ,Maxima ,2010.0,Automatic,271887.0,15000," Mar 03, 2021",1
+GMC Savana  3500 Cargo Van 2009,GMC ,Savana ,2009.0,Automatic,83746.0,50000," Mar 03, 2021",5
+Kia Sportage  2.0L Top 2014,Kia ,Sportage ,2014.0,Automatic,110000.0,30000," Mar 03, 2021",10
+Toyota Camry  2.5L GLX 2014,Toyota ,Camry ,2014.0,Automatic,80300.0,43000," Mar 03, 2021",10
+Toyota Yaris  1.3L SE 2016,Toyota ,Yaris ,2016.0,Automatic,139000.0,26000," Mar 03, 2021",10
+GMC Acadia  3.6L All Wheel Drive 2008,GMC ,Acadia ,2008.0,Automatic,422000.0,20000," Mar 03, 2021",10
+Kia Carnival  3.3 EX 2013,Kia ,Carnival ,2013.0,Automatic,210000.0,25000," Mar 03, 2021",5
+Toyota Camry  2.5L GLX 2011,Toyota ,Camry ,2011.0,Automatic,245000.0,25000," Mar 03, 2021",1
+GMC Acadia  3.6L All Wheel Drive 2012,GMC ,Acadia ,2012.0,Automatic,112500.0,35500," Mar 03, 2021",10
+Lexus LX 570 2020,Lexus ,LX ,2020.0,Automatic,12310.0,195000," Mar 03, 2021",1
+Toyota Fortuner  2.7L (4X2) 2017,Toyota ,Fortuner ,2017.0,Automatic,139000.0,62000," Mar 03, 2021",1
+Chevrolet Camaro Coupe  LT 2010,Chevrolet ,Camaro ,2010.0,Automatic,226000.0,35000," Mar 03, 2021",1
+Dodge Durango   Express 3.6L 2013,Dodge ,Durango ,2013.0,Automatic,21000.0,38000," Mar 03, 2021",10
+Toyota Camry  2.5L GLX 1999,Toyota ,Camry ,1999.0,Automatic,500000.0,8000," Mar 03, 2021",10
+Kia Rio  4 Door Sedan 1.4L 2015,Kia ,Rio ,2015.0,Automatic,190000.0,19500," Mar 03, 2021",10
+Hyundai Accent  1.4L 2020,Hyundai ,Accent ,2020.0,Automatic,47000.0,35500," Mar 03, 2021",10
+Renault Duster   PE 2013,Renault ,Duster ,2013.0,Manual,115000.0,18500," Mar 03, 2021",10
+Jeep Cherokee  2.4L Sport 2010,Jeep ,Cherokee ,2010.0,Automatic,222000.0,24000," Mar 03, 2021",5
+GMC Yukon  5.3L AWD 2007,GMC ,Yukon ,2007.0,Automatic,383000.0,35000," Mar 03, 2021",10
+Toyota Fortuner  2.7L 2011,Toyota ,Fortuner ,2011.0,Automatic,122500.0,47000," Mar 03, 2021",5
+Kia Rio  4 Door Sedan 1.4L 2013,Kia ,Rio ,2013.0,Automatic,77000.0,23000," Mar 03, 2021",10
+Toyota Corolla  1.6L XLI 2016,Toyota ,Corolla ,2016.0,CVT,98000.0,27000," Mar 03, 2021",10
+Kia Cerato Koup  1.6L Turbo 2016,Kia ,Cerato ,2016.0,Automatic,55000.0,40000," Mar 03, 2021",10
+Ford Ranger  2.2L Double Cab (Base) Hi-Rider 4X4 M/T 2011,Ford ,Ranger ,2011.0,Manual,168000.0,28500," Mar 03, 2021",10
+Renault Fluence  1.6L PE 2015,Renault ,Fluence ,2015.0,Automatic,123000.0,13000," Mar 03, 2021",10
+Ford Explorer  3.5LV6 XLT 2010,Ford ,Explorer ,2010.0,Automatic,207000.0,18000," Mar 02, 2021",10
+Chevrolet Traverse  3.6L LT (AWD) 2012,Chevrolet ,Traverse ,2012.0,Automatic,330000.0,27500," Mar 02, 2021",10
+Porsche Macan  S 2015,Porsche ,Macan ,2015.0,Automatic,102000.0,130000," Mar 02, 2021",1
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,112000.0,52500," Mar 02, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,51553.0,20999," Mar 02, 2021",10
+Ford Focus 2012,Ford ,Focus ,2012.0,Automatic,125041.0,16999," Mar 02, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,61105.0,20999," Mar 02, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,33643.0,20999," Mar 02, 2021",10
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,80040.0,58999," Mar 02, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,5318.0,95000," Mar 02, 2021",1
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,167219.0,39000," Mar 02, 2021",5
+Ford Taurus 2014,Ford ,Taurus ,2014.0,Automatic,99421.0,48000," Mar 02, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,55012.0,70000," Mar 02, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,23172.0,20999," Mar 02, 2021",10
+Ford Fusion 2017,Ford ,Fusion ,2017.0,Automatic,36900.0,64999," Mar 02, 2021",5
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66323.0,44999," Mar 02, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,31038.0,20999," Mar 02, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20190.0,20999," Mar 02, 2021",10
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,191302.0,33999," Mar 02, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,26993.0,20999," Mar 02, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20221.0,20999," Mar 02, 2021",10
+Ford Explorer 2012,Ford ,Explorer ,2012.0,Automatic,136586.0,44999," Mar 02, 2021",5
+Ford Explorer 2014,Ford ,Explorer ,2014.0,Automatic,53035.0,62999," Mar 02, 2021",5
+Lincoln MKS 2015,Lincoln ,MKS ,2015.0,Automatic,22456.0,79999," Mar 02, 2021",5
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,147600.0,39999," Mar 02, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,145150.0,55999," Mar 02, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,105100.0,53999," Mar 02, 2021",5
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,89000.0,54999," Mar 02, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,157000.0,43999," Mar 02, 2021",5
+Ford Focus 2014,Ford ,Focus ,2014.0,Automatic,93700.0,24999," Mar 02, 2021",10
+Ford EcoSport 2014,Ford ,EcoSport ,2014.0,Automatic,186000.0,23000," Mar 02, 2021",10
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,43961.0,54999," Mar 02, 2021",10
+Ford Explorer 2016,Ford ,Explorer ,2016.0,Automatic,18900.0,129999," Mar 02, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,132368.0,54999," Mar 02, 2021",5
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,43814.0,49999," Mar 02, 2021",10
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,18652.0,50000," Mar 02, 2021",10
+Ford Explorer 2015,Ford ,Explorer ,2015.0,Automatic,68114.0,63999," Mar 02, 2021",5
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,1606.0,110000," Mar 02, 2021",1
+Ford Fusion 2014,Ford ,Fusion ,2014.0,Automatic,95395.0,33000," Mar 02, 2021",10
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,50400," Mar 02, 2021",5
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,3960.0,150150," Mar 02, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,39706.0,52500," Mar 02, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,42249.0,52500," Mar 02, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,90109.0,49999," Mar 02, 2021",5
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,49210.0,51999," Mar 02, 2021",10
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,92618.0,59999," Mar 02, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,18815.0,51729," Mar 02, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,68281.0,90999," Mar 02, 2021",1
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,35000.0,94500," Mar 02, 2021",1
+Lincoln Continental 2017,Lincoln ,Continental ,2017.0,Automatic,10300.0,259999," Mar 02, 2021",1
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,17110.0,48999," Mar 02, 2021",10
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,14505.0,44999," Mar 02, 2021",10
+Ford Focus 2013,Ford ,Focus ,2013.0,Automatic,48854.0,20000," Mar 02, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,27202.0,44999," Mar 02, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,6214.0,102999," Mar 02, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,50287.0,51450," Mar 02, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,13333.0,94999," Mar 02, 2021",1
+Lincoln Navigator 2012,Lincoln ,Navigator ,2012.0,Automatic,102500.0,84000," Mar 02, 2021",1
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,26900.0,73000," Mar 02, 2021",5
+Ford Flex 2016,Ford ,Flex ,2016.0,Automatic,2700.0,93450," Mar 02, 2021",5
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,8184.0,24999," Mar 02, 2021",10
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,155766.0,54999," Mar 02, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,7796.0,156000," Mar 02, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1218.0,142999," Mar 02, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1130.0,100500," Mar 02, 2021",1
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,90033.0,22999," Mar 02, 2021",10
+Ford Expedition 2015,Ford ,Expedition ,2015.0,Automatic,92823.0,73499," Mar 02, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,92409.0,54999," Mar 02, 2021",5
+Lincoln MKX 2016,Lincoln ,MKX ,2016.0,Automatic,35667.0,167999," Mar 02, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,2129.0,155999," Mar 02, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,15878.0,189000," Mar 02, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Mar 02, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,2774.0,134999," Mar 02, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,22114.0,99999," Mar 02, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4422.0,134999," Mar 02, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,7000.0,142800," Mar 02, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,16834.0,149999," Mar 02, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,165500.0,52499," Mar 02, 2021",1
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,118300.0,52500," Mar 02, 2021",5
+Ford Focus 2017,Ford ,Focus ,2017.0,Automatic,1739.0,42000," Mar 02, 2021",10
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1243.0,165999," Mar 02, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,22603.0,45000," Mar 02, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,82604.0,52498," Mar 02, 2021",5
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,57750," Mar 02, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4483.0,120750," Mar 02, 2021",1
+Ford Edge 2014,Ford ,Edge ,2014.0,Automatic,56723.0,59999," Mar 02, 2021",5
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,83800.0,78750," Mar 02, 2021",1
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,35511.0,60900," Mar 02, 2021",5
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,2218.0,37800," Mar 02, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,116963.0,52498," Mar 02, 2021",5
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,29900.0,56000," Mar 02, 2021",10
+Lincoln MKT 2013,Lincoln ,MKT ,2013.0,Automatic,72339.0,72449," Mar 02, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,15276.0,64999," Mar 02, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,90660.0,52498," Mar 02, 2021",5
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,115250.0,45000," Mar 02, 2021",5
+Lincoln MKT 2015,Lincoln ,MKT ,2015.0,Automatic,68317.0,99999," Mar 02, 2021",1
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,132239.0,41999," Mar 02, 2021",5
+Lincoln MKS 2014,Lincoln ,MKS ,2014.0,Automatic,21667.0,93450," Mar 02, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,10666.0,52500," Mar 02, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,28000.0,37800," Mar 02, 2021",10
+Infiniti FX 35  4 Door 3.5L 2008,Infiniti ,FX ,2008.0,Automatic,37000.0,11500," Mar 02, 2021",10
+Hyundai Sonata  2.0L 2018,Hyundai ,Sonata ,2018.0,Automatic,51000.0,40000," Mar 02, 2021",10
+Kia Sportage  1.6L LX (FWD) 2015,Kia ,Sportage ,2015.0,Automatic,121000.0,36500," Mar 02, 2021",10
+Chevrolet Spark  1.0L LS 2018,Chevrolet ,Spark ,2018.0,Automatic,27000.0,21000," Mar 02, 2021",10
+Chevrolet Trailblazer  LT 2WD 2005,Chevrolet ,Trailblazer ,2005.0,Automatic,318000.0,12000," Mar 02, 2021",1
+Toyota Corolla  1.6L XLI 2013,Toyota ,Corolla ,2013.0,CVT,240000.0,21000," Mar 02, 2021",5
+Volkswagen Touareg  2.0T TL (250 HP) 2009,Volkswagen ,Touareg ,2009.0,Automatic,292000.0,18000," Mar 02, 2021",1
+Honda Odyssey  3.5 EX 2014,Honda ,Odyssey ,2014.0,Automatic,217000.0,41000," Mar 02, 2021",1
+Honda Civic  1.6L DX 2017,Honda ,Civic ,2017.0,Automatic,100000.0,40000," Mar 02, 2021",10
+Toyota Hilux  2.0 Double Cab 4x2 M/T 2014,Toyota ,Hilux ,2014.0,Manual,278000.0,70000," Mar 02, 2021",1
+Toyota Camry  2.5L GLX 1997,Toyota ,Camry ,1997.0,Automatic,250000.0,15000," Mar 02, 2021",5
+Ford Edge  Ambient 2009,Ford ,Edge ,2009.0,Automatic,303000.0,24000," Mar 02, 2021",1
+Bentley Mulsanne 2012,Bentley ,Mulsanne ,2012.0,Automatic,1797.0,800000," Mar 02, 2021",1
+GMC Acadia  3.6L Front Wheel Drive 2010,GMC ,Acadia ,2010.0,Automatic,297000.0,25999," Mar 01, 2021",1
+GMC Terrain SLE1 FWD 2015,GMC ,Terrain ,2015.0,Automatic,97000.0,37000," Mar 01, 2021",10
+Lexus ES  350 Full Option 2017,Lexus ,ES ,2017.0,Automatic,86000.0,95000," Mar 01, 2021",1
+Toyota Fortuner  2.7L 2015,Toyota ,Fortuner ,2015.0,Automatic,74000.0,72000," Mar 01, 2021",5
+Hyundai Elantra  1.6L 2013,Hyundai ,Elantra ,2013.0,Automatic,227000.0,20000," Mar 01, 2021",5
+Hyundai Accent  1.4L 2018,Hyundai ,Accent ,2018.0,Automatic,94000.0,31000," Mar 01, 2021",10
+Toyota Camry  2.5L GLX 2004,Toyota ,Camry ,2004.0,Automatic,330000.0,13500," Mar 01, 2021",10
+Renault Fluence  1.6L LE 2015,Renault ,Fluence ,2015.0,CVT,184000.0,16000," Mar 01, 2021",10
+Toyota Avalon  3.5L SE 2015,Toyota ,Avalon ,2015.0,CVT,115000.0,74999," Mar 01, 2021",1
+Toyota Corolla  1.6L XLI 2012,Toyota ,Corolla ,2012.0,CVT,144000.0,25000," Mar 01, 2021",10
+Kia Carens  1.6 EX 2013,Kia ,Carens ,2013.0,Automatic,400000.0,18000," Mar 01, 2021",10
+Toyota Corolla  1.6L XLI 2013,Toyota ,Corolla ,2013.0,CVT,246000.0,22000," Mar 01, 2021",5
+Chevrolet Caprice  6.0L Royale 2009,Chevrolet ,Caprice ,2009.0,Automatic,192000.0,14500," Mar 01, 2021",10
+GMC Yukon  5.3 V8 AT4 (AWD) 2015,GMC ,Yukon ,2015.0,Automatic,72000.0,102000," Mar 01, 2021",1
+Chevrolet Camaro Coupe  SS 2017,Chevrolet ,Camaro ,2017.0,Automatic,113000.0,90000," Mar 01, 2021",1
+Hyundai Sonata  1.6T GL 2019,Hyundai ,Sonata ,2019.0,Automatic,52000.0,63000," Mar 01, 2021",5
+Toyota Yaris  1.3L SE 2010,Toyota ,Yaris ,2010.0,Automatic,261000.0,16000," Mar 01, 2021",5
+Land Rover LR2  3.2 HSE 2013,Land ,Rover ,2013.0,Automatic,105000.0,54000," Mar 01, 2021",5
+Toyota Avalon  3.5L SE 2015,Toyota ,Avalon ,2015.0,CVT,115000.0,74999," Mar 01, 2021",1
+Lexus LX 570 2019,Lexus ,LX ,2019.0,Automatic,4000.0,405000," Feb 28, 2021",1
+Daihatsu Terios 2011,Daihatsu ,Terios ,2011.0,Automatic,197300.0,22500," Feb 28, 2021",10
+Ford Explorer  3.5L V6 Base 2010,Ford ,Explorer ,2010.0,Automatic,199800.0,25000," Feb 28, 2021",5
+Toyota Sequoia  5.7 SR5 2011,Toyota ,Sequoia ,2011.0,Automatic,323000.0,85000," Feb 28, 2021",10
+Hyundai Accent  1.4L Mid 2016,Hyundai ,Accent ,2016.0,Automatic,166000.0,24000," Feb 28, 2021",10
+Dodge Durango   Express 3.6L 2013,Dodge ,Durango ,2013.0,Automatic,284000.0,30000," Feb 28, 2021",1
+Honda Accord  2.4L EX + Navigation 2008,Honda ,Accord ,2008.0,Automatic,353999.0,21000," Feb 28, 2021",10
+Mitsubishi Pajero  3.0L GL 5 Door 2017,Mitsubishi ,Pajero ,2017.0,Automatic,100000.0,58000," Feb 28, 2021",5
+Hyundai Elantra  1.6L 2019,Hyundai ,Elantra ,2019.0,Automatic,53000.0,52000," Feb 28, 2021",10
+Dodge Durango  SXT 3.6L 2015,Dodge ,Durango ,2015.0,Automatic,79000.0,75000," Feb 28, 2021",1
+Hyundai Sonata  1.6T GL 2012,Hyundai ,Sonata ,2012.0,Automatic,265000.0,25000," Feb 28, 2021",1
+Hyundai Elantra  1.6L 2015,Hyundai ,Elantra ,2015.0,Automatic,206000.0,25000," Feb 28, 2021",5
+Toyota Hilux  2.0 Double Cab 4x2 M/T 2011,Toyota ,Hilux ,2011.0,Manual,254000.0,42000," Feb 28, 2021",1
+Lexus ES  300 Hybrid Full Option 2002,Lexus ,ES ,2002.0,CVT,317000.0,15000," Feb 28, 2021",1
+Chevrolet Sonic  1.6 Base Sedan 2012,Chevrolet ,Sonic ,2012.0,Automatic,125000.0,13000," Feb 28, 2021",10
+Kia Cerato  1.6L Base 2015,Kia ,Cerato ,2015.0,Automatic,76000.0,28500," Feb 28, 2021",10
+GMC Acadia  3.6L All Wheel Drive 2010,GMC ,Acadia ,2010.0,Automatic,360000.0,23000," Feb 28, 2021",10
+Chevrolet Cruze  1.6L Elegance 2014,Chevrolet ,Cruze ,2014.0,Automatic,86500.0,23000," Feb 28, 2021",10
+Hyundai Accent  1.4L 2019,Hyundai ,Accent ,2019.0,Automatic,52000.0,37000," Feb 28, 2021",10
+Hyundai Santa Fe  2.4L AWD 2013,Hyundai ,Santa ,2013.0,Automatic,188000.0,46000," Feb 28, 2021",1
+Toyota Corolla  1.6L XLI 2012,Toyota ,Corolla ,2012.0,CVT,300000.0,18000," Feb 28, 2021",1
+New Kia Picanto 2014,Ford ,Kia ,2014.0,Automatic,60000.0,18000," Feb 28, 2021",10
+Honda Accord  2.4L EX + Navigation 2008,Honda ,Accord ,2008.0,Automatic,353999.0,21000," Feb 28, 2021",10
+Hyundai Elantra  1.6L 2013,Hyundai ,Elantra ,2013.0,Automatic,167000.0,22000," Feb 28, 2021",10
+Hyundai Elantra  1.6L 2014,Hyundai ,Elantra ,2014.0,Automatic,230000.0,14500," Feb 28, 2021",10
+Toyota Innova  2.7L DX 2006,Toyota ,Innova ,2006.0,Automatic,45000.0,23000," Feb 28, 2021",10
+Jeep Compass  2.4L Longitude (4x4) 2019,Jeep ,Compass ,2019.0,Automatic,30468.0,92000," Feb 28, 2021",1
+Jeep Compass  2.4L Longitude (4x4) 2019,Jeep ,Compass ,2019.0,Automatic,30500.0,92000," Feb 28, 2021",1
+Land Rover Range Rover  HSE 2016,Land ,Rover ,2016.0,Automatic,35000.0,280000," Feb 28, 2021",1
+Land Rover Range Rover  HSE 2016,Land ,Rover ,2016.0,Automatic,35000.0,280000," Feb 28, 2021",1
+Chevrolet Blazer 2015,Chevrolet ,Blazer ,2015.0,Automatic,185000.0,45000," Feb 28, 2021",1
+GMC Yukon  5.3L RWD 2011,GMC ,Yukon ,2011.0,Automatic,307000.0,65000," Feb 27, 2021",1
+Mercury Mountaineer  Base 2008,Mercury ,Mountaineer ,2008.0,Automatic,270000.0,16500," Feb 27, 2021",1
+Nissan Sentra 2015,Nissan ,Sentra ,2015.0,Automatic,145600.0,27000," Feb 26, 2021",10
+Daihatsu Terios 2011,Daihatsu ,Terios ,2011.0,Automatic,197200.0,24500," Feb 26, 2021",10
+Toyota Hilux 1977,Toyota ,Hilux ,1977.0,Manual,79995.0,20998," Feb 26, 2021",10
+Hyundai Accent  1.4L Base 2020,Hyundai ,Accent ,2020.0,Automatic,44000.0,40000," Feb 26, 2021",10
+Hyundai Grand i10 2015,Hyundai ,Grand ,2015.0,Automatic,78999.0,24999," Feb 26, 2021",10
+Jeep Renegade 2016,Jeep ,Renegade ,2016.0,Automatic,70000.0,40000," Feb 25, 2021",10
+Hyundai Santa Fe  2.4L AWD 2015,Hyundai ,Santa ,2015.0,Automatic,194000.0,37000," Feb 25, 2021",5
+Kia Rio Hatchback  1.4 Top 2014,Kia ,Rio ,2014.0,Automatic,130000.0,22000," Feb 25, 2021",10
+Ford Explorer  3.5L V6 XLT 2015,Ford ,Explorer ,2015.0,Automatic,72000.0,75000," Feb 25, 2021",1
+Honda Civic  1.5 RS 2006,Honda ,Civic ,2006.0,Automatic,400000.0,15000," Feb 25, 2021",10
+Chevrolet Cruze  1.6L 2010,Chevrolet ,Cruze ,2010.0,Manual,122000.0,12000," Feb 25, 2021",10
+Hyundai Elantra  1.6L 2012,Hyundai ,Elantra ,2012.0,Automatic,236000.0,12000," Feb 25, 2021",10
+Hyundai Accent  1.4L 2015,Hyundai ,Accent ,2015.0,Automatic,236000.0,21000," Feb 25, 2021",5
+Honda City  1.5L DX 2020,Honda ,City ,2020.0,CVT,12500.0,40000," Feb 25, 2021",10
+Geely Coolray  1.5TD GS 2020,Geely ,Coolray ,2020.0,Manual,11000.0,47000," Feb 25, 2021",10
+Toyota Corolla  1.6L XLI 2012,Toyota ,Corolla ,2012.0,CVT,144000.0,25000," Feb 25, 2021",10
+Chevrolet Aveo  1.4L Automatic 2010,Chevrolet ,Aveo ,2010.0,Automatic,110000.0,16500," Feb 25, 2021",10
+Ford Explorer  3.5L V6 Base 2008,Ford ,Explorer ,2008.0,Automatic,227000.0,17000," Feb 25, 2021",10
+Hyundai Tucson  1.6L GL 2020,Hyundai ,Tucson ,2020.0,Automatic,25000.0,77000," Feb 25, 2021",5
+Hyundai Elantra  1.6L GLS 2015,Hyundai ,Elantra ,2015.0,Automatic,50000.0,27000," Feb 25, 2021",10
+Hyundai Accent  1.6L 2017,Hyundai ,Accent ,2017.0,Automatic,92000.0,26000," Feb 25, 2021",10
+Toyota Corolla  1.6L XLI 2012,Toyota ,Corolla ,2012.0,CVT,216000.0,23000," Feb 25, 2021",5
+Toyota Corolla  1.6L XLI 2015,Toyota ,Corolla ,2015.0,CVT,320000.0,27500," Feb 25, 2021",1
+Nissan Murano  3.5L SL 2015,Nissan ,Murano ,2015.0,Automatic,199000.0,45000," Feb 25, 2021",1
+Toyota Corolla  1.6L XLI 2015,Toyota ,Corolla ,2015.0,CVT,125000.0,34000," Feb 25, 2021",10
+Nissan Sunny  1.6L SL 2015,Nissan ,Sunny ,2015.0,CVT,192000.0,19000," Feb 25, 2021",10
+Toyota Yaris Sedan  1.3 S 2016,Toyota ,Yaris ,2016.0,Automatic,91000.0,26000," Feb 25, 2021",10
+Nissan Pathfinder  3.5L S 2WD 2015,Nissan ,Pathfinder ,2015.0,Automatic,100000.0,650000," Feb 25, 2021",1
+Nissan Kicks  1.6 SV 2020,Nissan ,Kicks ,2020.0,Automatic,19005.0,60000," Feb 25, 2021",10
+Nissan Altima  2.5 S 2017,Nissan ,Altima ,2017.0,Automatic,75500.0,54000," Feb 24, 2021",5
+Ford Crown Victoria 4.6L 2011,Ford ,Crown ,2011.0,Automatic,265000.0,34000," Feb 24, 2021",1
+GMC Acadia  SLE2 2017,GMC ,Acadia ,2017.0,Automatic,279000.0,90000," Feb 24, 2021",1
+GMC Acadia 2016,GMC ,Acadia ,2016.0,Automatic,126000.0,77500," Feb 24, 2021",1
+Nissan Pathfinder  3.5L S 2WD 2015,Nissan ,Pathfinder ,2015.0,Automatic,100000.0,65000," Feb 24, 2021",5
+Toyota Corolla  1.6 S 2017,Toyota ,Corolla ,2017.0,Automatic,88000.0,45000," Feb 24, 2021",10
+Ford Expedition  3.5L XL 2016,Ford ,Expedition ,2016.0,Automatic,73000.0,80000," Feb 23, 2021",1
+Toyota Camry  2.5L GLX 2011,Toyota ,Camry ,2011.0,Automatic,244000.0,24000," Feb 23, 2021",1
+Hyundai Sonata  1.6T GL 2012,Hyundai ,Sonata ,2012.0,Automatic,263000.0,23500," Feb 23, 2021",1
+Toyota Corolla  1.6L XLI 2014,Toyota ,Corolla ,2014.0,CVT,163000.0,32000," Feb 23, 2021",5
+Honda Accord  1.5T LX 2006,Honda ,Accord ,2006.0,Automatic,277000.0,17000," Feb 23, 2021",1
+Kia Rio Sedan  1.4 Base 2013,Kia ,Rio ,2013.0,Automatic,127000.0,21500," Feb 23, 2021",10
+Kia Cerato  4 Door Sedan 1.6L 2017,Kia ,Cerato ,2017.0,Automatic,65000.0,32000," Feb 23, 2021",10
+Toyota Yaris  1.5L S (CVT) 2020,Toyota ,Yaris ,2020.0,CVT,6000.0,58000," Feb 23, 2021",10
+Toyota Corolla  2.0L XLI 2015,Toyota ,Corolla ,2015.0,Automatic,220000.0,28500," Feb 23, 2021",5
+Toyota Innova  2.7L DX 2009,Toyota ,Innova ,2009.0,Automatic,400000.0,22000," Feb 23, 2021",10
+Toyota Yaris  1.5L SE 2018,Toyota ,Yaris ,2018.0,Automatic,70000.0,34000," Feb 23, 2021",10
+Nissan Sunny Classic  EX Saloon 2011,Nissan ,Sunny ,2011.0,Automatic,271000.0,11500," Feb 23, 2021",5
+Kia Cerato  1.6L Base 2016,Kia ,Cerato ,2016.0,Automatic,125000.0,31500," Feb 23, 2021",10
+Toyota Camry  2.5L GLX 2010,Toyota ,Camry ,2010.0,Automatic,250000.0,22000," Feb 23, 2021",1
+Chevrolet Cruze  1.8 LS 2011,Chevrolet ,Cruze ,2011.0,Automatic,158000.0,17000," Feb 23, 2021",10
+Volkswagen Golf GTI  Sport 2012,Volkswagen ,Golf ,2012.0,Automatic,149000.0,27000," Feb 23, 2021",10
+Toyota Camry  2.5L GLX 2015,Toyota ,Camry ,2015.0,Automatic,138000.0,40000," Feb 23, 2021",5
+Toyota Yaris  1.3L SE 2014,Toyota ,Yaris ,2014.0,Automatic,113000.0,25000," Feb 23, 2021",10
+Toyota Corolla  1.6L XLI 2016,Toyota ,Corolla ,2016.0,CVT,100000.0,30000," Feb 23, 2021",10
+Chevrolet Cruze  1.8 LS 2016,Chevrolet ,Cruze ,2016.0,Automatic,111000.0,24000," Feb 23, 2021",10
+Toyota Corolla  1.6L XLI 2013,Toyota ,Corolla ,2013.0,CVT,191000.0,19000," Feb 23, 2021",10
+Mitsubishi Lancer  1.6L GLX 2015,Mitsubishi ,Lancer ,2015.0,Automatic,278000.0,18000," Feb 23, 2021",1
+Chevrolet Impala  3.6L LTZ 2015,Chevrolet ,Impala ,2015.0,Automatic,104000.0,48000," Feb 23, 2021",5
+Dodge Charger  3.6L SE Sport 2008,Dodge ,Charger ,2008.0,Automatic,200000.0,23000," Feb 23, 2021",10
+Toyota Corolla  1.6L XLI 2012,Toyota ,Corolla ,2012.0,CVT,295000.0,22000," Feb 23, 2021",1
+Nissan Sunny  1.5 SL 2011,Nissan ,Sunny ,2011.0,Automatic,127000.0,17000," Feb 23, 2021",10
+Lexus ES  350 Exclusive 2006,Lexus ,ES ,2006.0,Automatic,375000.0,25000," Feb 22, 2021",10
+Toyota FJ Cruiser 4.0L FJ1 A/T 2012,Toyota ,FJ ,2012.0,Automatic,356000.0,53000," Feb 22, 2021",10
+Toyota Corolla  1.6L GLI 2011,Toyota ,Corolla ,2011.0,Automatic,200000.0,18000," Feb 22, 2021",10
+Toyota Camry  2.5L GLX 2008,Toyota ,Camry ,2008.0,Automatic,410000.0,21000," Feb 22, 2021",10
+Chevrolet Suburban  5.3L LT Z71 2002,Chevrolet ,Suburban ,2002.0,Automatic,187000.0,18000," Feb 22, 2021",10
+Lexus IS F 2016,Lexus ,IS ,2016.0,Automatic,140000.0,80000," Feb 22, 2021",1
+Nissan Sunny  1.6L SL 2012,Nissan ,Sunny ,2012.0,CVT,132000.0,19000," Feb 22, 2021",10
+Toyota Yaris  1.3L SE 2019,Toyota ,Yaris ,2019.0,Automatic,185000.0,24000," Feb 22, 2021",10
+Kia Picanto  1.2L Base 2014,Kia ,Picanto ,2014.0,Automatic,76000.0,15000," Feb 22, 2021",10
+Toyota Corolla  1.6L XLI 2012,Toyota ,Corolla ,2012.0,CVT,284000.0,20000," Feb 22, 2021",1
+Toyota Yaris  1.3L SE 2015,Toyota ,Yaris ,2015.0,Automatic,137000.0,28500," Feb 22, 2021",10
+Hyundai Accent  1.4L 2019,Hyundai ,Accent ,2019.0,Automatic,100000.0,30000," Feb 22, 2021",10
+Toyota Corolla  1.6L XLI 2011,Toyota ,Corolla ,2011.0,CVT,192000.0,23000," Feb 22, 2021",10
+Hyundai Elantra 2012,Hyundai ,Elantra ,2012.0,Automatic,225000.0,17500," Feb 22, 2021",10
+Kia Cadenza 2017,Kia ,Cadenza ,2017.0,Automatic,74000.0,50000," Feb 22, 2021",5
+Toyota Corolla  1.6L XLI 2003,Toyota ,Corolla ,2003.0,CVT,543000.0,10000," Feb 22, 2021",10
+Kia Cerato 2016,Kia ,Cerato ,2016.0,Automatic,75000.0,13900," Feb 22, 2021",10
+Nissan Sunny 2006,Nissan ,Sunny ,2006.0,CVT,156000.0,8500," Feb 22, 2021",10
+Kia Rio Hatchback  1.4 Base 2014,Kia ,Rio ,2014.0,Automatic,183000.0,24000," Feb 22, 2021",10
+Nissan Sunny Classic  EX Saloon 2009,Nissan ,Sunny ,2009.0,Automatic,302000.0,8000," Feb 22, 2021",1
+Hyundai Sonata  1.6T GL 2019,Hyundai ,Sonata ,2019.0,Automatic,59000.0,60000," Feb 22, 2021",5
+Honda Civic  1.5 RS 2008,Honda ,Civic ,2008.0,Automatic,255000.0,17500," Feb 22, 2021",5
+Hyundai Accent  1.4L 2018,Hyundai ,Accent ,2018.0,Automatic,94000.0,31000," Feb 22, 2021",10
+Toyota Camry  2.5L GLX 2017,Toyota ,Camry ,2017.0,Automatic,91000.0,70000," Feb 21, 2021",1
+Toyota Yaris Sedan  1.3 TRD Limited 2017,Toyota ,Yaris ,2017.0,Automatic,37500.0,35000," Feb 21, 2021",10
+GMC Yukon  SLE 2014,GMC ,Yukon ,2014.0,Automatic,132998.0,65000," Feb 21, 2021",1
+Renault Logan  SE 2014,Renault ,Logan ,2014.0,Manual,93000.0,14000," Feb 21, 2021",10
+Toyota Camry 2.5L S 2015,Toyota ,Camry ,2015.0,Automatic,176250.0,32000," Feb 21, 2021",5
+Renault Talisman 2017,Renault ,Talisman ,2017.0,CVT,79000.0,70000," Feb 21, 2021",5
+Renault Talisman 2017,Renault ,Talisman ,2017.0,CVT,79000.0,70000," Feb 20, 2021",5
+Lincoln MKS  3.7 FWD 2013,Lincoln ,MKS ,2013.0,Automatic,68900.0,69000," Feb 20, 2021",5
+Nissan Altima  2.5 SV 2017,Nissan ,Altima ,2017.0,Automatic,156000.0,52000," Feb 20, 2021",1
+New GMC Acadia 2009,Ford ,GMC ,2009.0,Automatic,258000.0,22000," Feb 20, 2021",1
+Toyota Hiace High Roof Van 2019,Toyota ,Hiace ,2019.0,Automatic,70000.0,130000," Feb 19, 2021",1
+Toyota Hiace  High Roof Van 2019,Toyota ,Hiace ,2019.0,Automatic,70000.0,130000," Feb 19, 2021",1
+Toyota Hiace 2019,Toyota ,Hiace ,2019.0,Automatic,70000.0,130000," Feb 19, 2021",1
+Toyota Cressida 1989,Toyota ,Cressida ,1989.0,Manual,318000.0,16000," Feb 19, 2021",1
+Toyota Cressida 1989,Toyota ,Cressida ,1989.0,Manual,318000.0,17000," Feb 19, 2021",1
+Jeep Liberty 2012,Jeep ,Liberty ,2012.0,Automatic,280000.0,45000," Feb 19, 2021",1
+Toyota Rush  1.5L STD (7-Seater) 2019,Toyota ,Rush ,2019.0,Automatic,60000.0,55000," Feb 18, 2021",5
+Lexus LX 570 2016,Lexus ,LX ,2016.0,Automatic,2393.0,63750," Feb 18, 2021",10
+Toyota Fortuner 2017,Toyota ,Fortuner ,2017.0,Automatic,54000.0,80000," Feb 18, 2021",5
+Land Rover Range Rover Sport  Supercharged 2016,Land ,Rover ,2016.0,Automatic,100000.0,183900," Feb 17, 2021",1
+Toyota Camry 2016,Toyota ,Camry ,2016.0,Automatic,150000.0,60000," Feb 17, 2021",1
+Chevrolet Tahoe  LS 2016,Chevrolet ,Tahoe ,2016.0,Automatic,167000.0,90000," Feb 17, 2021",1
+Hyundai Accent  1.4L 2017,Hyundai ,Accent ,2017.0,Automatic,67500.0,27000," Feb 17, 2021",10
+Toyota Corolla  1.6L XLI 2011,Toyota ,Corolla ,2011.0,CVT,365000.0,20000," Feb 17, 2021",10
+Toyota Land Cruiser  4.0 Safari AT 2019,Toyota ,Land ,2019.0,Automatic,75000.0,227000," Feb 17, 2021",1
+Toyota Corolla  1.6L XLI 2011,Toyota ,Corolla ,2011.0,CVT,367000.0,20000," Feb 17, 2021",10
+Hyundai Accent 2018,Hyundai ,Accent ,2018.0,Automatic,92000.0,28000," Feb 17, 2021",10
+Toyota Hilux  2.7L Double Cab 4x4 2013,Toyota ,Hilux ,2013.0,Automatic,275000.0,50000," Feb 17, 2021",1
+Renault Duster   PE 2015,Renault ,Duster ,2015.0,Manual,200000.0,22000," Feb 17, 2021",10
+Honda Accord  1.5T EX 2002,Honda ,Accord ,2002.0,Automatic,318000.0,10000," Feb 17, 2021",1
+GMC Yukon  5.3L RWD 2012,GMC ,Yukon ,2012.0,Automatic,234471.0,75000," Feb 16, 2021",1
+Hyundai Elantra  1.6L 2014,Hyundai ,Elantra ,2014.0,Automatic,210000.0,20000," Feb 16, 2021",10
+Kia Cerato  1.6L Base 2014,Kia ,Cerato ,2014.0,Automatic,200000.0,16000," Feb 16, 2021",10
+Lexus ES 350  4 door 3.5L 2015,Lexus ,ES ,2015.0,Automatic,87000.0,100000," Feb 16, 2021",1
+Kia Sorento  3.5L Base 2016,Kia ,Sorento ,2016.0,Automatic,77500.0,70000," Feb 16, 2021",5
+Nissan Altima  2.5 SL 2020,Nissan ,Altima ,2020.0,Automatic,9000.0,75000," Feb 16, 2021",5
+Ford Focus 2012,Ford ,Focus ,2012.0,Automatic,125041.0,16999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,51553.0,20999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,61105.0,20999," Feb 16, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,112000.0,52500," Feb 16, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,33643.0,20999," Feb 16, 2021",10
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,5318.0,95000," Feb 16, 2021",1
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,167219.0,39000," Feb 16, 2021",5
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,80040.0,58999," Feb 16, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,23172.0,20999," Feb 16, 2021",10
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,55012.0,70000," Feb 16, 2021",5
+Ford Fusion 2017,Ford ,Fusion ,2017.0,Automatic,36900.0,64999," Feb 16, 2021",5
+Ford Taurus 2014,Ford ,Taurus ,2014.0,Automatic,99421.0,48000," Feb 16, 2021",5
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66323.0,44999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20190.0,20999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,31038.0,20999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,26993.0,20999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20221.0,20999," Feb 16, 2021",10
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,191302.0,33999," Feb 16, 2021",5
+Ford Explorer 2012,Ford ,Explorer ,2012.0,Automatic,136586.0,44999," Feb 16, 2021",5
+Ford Explorer 2014,Ford ,Explorer ,2014.0,Automatic,53035.0,62999," Feb 16, 2021",5
+Lincoln MKS 2015,Lincoln ,MKS ,2015.0,Automatic,22456.0,79999," Feb 16, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,145150.0,55999," Feb 16, 2021",1
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,147600.0,39999," Feb 16, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,157000.0,43999," Feb 16, 2021",5
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,89000.0,54999," Feb 16, 2021",5
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,105100.0,53999," Feb 16, 2021",5
+Ford EcoSport 2014,Ford ,EcoSport ,2014.0,Automatic,186000.0,23000," Feb 16, 2021",10
+Ford Focus 2014,Ford ,Focus ,2014.0,Automatic,93700.0,24999," Feb 16, 2021",10
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,43961.0,54999," Feb 16, 2021",10
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,132368.0,54999," Feb 16, 2021",5
+Ford Explorer 2016,Ford ,Explorer ,2016.0,Automatic,18900.0,129999," Feb 16, 2021",1
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,18652.0,50000," Feb 16, 2021",10
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,43814.0,49999," Feb 16, 2021",10
+Ford Explorer 2015,Ford ,Explorer ,2015.0,Automatic,68114.0,63999," Feb 16, 2021",5
+Ford Fusion 2014,Ford ,Fusion ,2014.0,Automatic,95395.0,33000," Feb 16, 2021",10
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,1606.0,110000," Feb 16, 2021",1
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,50400," Feb 16, 2021",5
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,3960.0,150150," Feb 16, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,42249.0,52500," Feb 16, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,39706.0,52500," Feb 16, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,49210.0,51999," Feb 16, 2021",10
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,92618.0,59999," Feb 16, 2021",5
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,90109.0,49999," Feb 16, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,18815.0,51729," Feb 16, 2021",10
+Lincoln Continental 2017,Lincoln ,Continental ,2017.0,Automatic,10300.0,259999," Feb 16, 2021",1
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,35000.0,94500," Feb 16, 2021",1
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,68281.0,90999," Feb 16, 2021",1
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,17110.0,48999," Feb 16, 2021",10
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,27202.0,44999," Feb 16, 2021",10
+Ford Focus 2013,Ford ,Focus ,2013.0,Automatic,48854.0,20000," Feb 16, 2021",10
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,14505.0,44999," Feb 16, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,50287.0,51450," Feb 16, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,6214.0,102999," Feb 16, 2021",1
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,13333.0,94999," Feb 16, 2021",1
+Lincoln Navigator 2012,Lincoln ,Navigator ,2012.0,Automatic,102500.0,84000," Feb 16, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,155766.0,54999," Feb 16, 2021",1
+Ford Flex 2016,Ford ,Flex ,2016.0,Automatic,2700.0,93450," Feb 16, 2021",5
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,8184.0,24999," Feb 16, 2021",10
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,26900.0,73000," Feb 16, 2021",5
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1218.0,142999," Feb 16, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,7796.0,156000," Feb 16, 2021",1
+Ford Expedition 2015,Ford ,Expedition ,2015.0,Automatic,92823.0,73499," Feb 16, 2021",1
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,90033.0,22999," Feb 16, 2021",10
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1130.0,100500," Feb 16, 2021",1
+Lincoln MKX 2016,Lincoln ,MKX ,2016.0,Automatic,35667.0,167999," Feb 16, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,92409.0,54999," Feb 16, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,2774.0,134999," Feb 16, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,15878.0,189000," Feb 16, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Feb 16, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,2129.0,155999," Feb 16, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4422.0,134999," Feb 16, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,22114.0,99999," Feb 16, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,7000.0,142800," Feb 16, 2021",1
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,165500.0,52499," Feb 16, 2021",1
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,118300.0,52500," Feb 16, 2021",5
+Ford Focus 2017,Ford ,Focus ,2017.0,Automatic,1739.0,42000," Feb 16, 2021",10
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,16834.0,149999," Feb 16, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1243.0,165999," Feb 16, 2021",1
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,22603.0,45000," Feb 16, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,82604.0,52498," Feb 16, 2021",5
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,57750," Feb 16, 2021",5
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,83800.0,78750," Feb 16, 2021",1
+Ford Edge 2014,Ford ,Edge ,2014.0,Automatic,56723.0,59999," Feb 16, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4483.0,120750," Feb 16, 2021",1
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,2218.0,37800," Feb 16, 2021",10
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,35511.0,60900," Feb 16, 2021",5
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,29900.0,56000," Feb 16, 2021",10
+Lincoln MKT 2013,Lincoln ,MKT ,2013.0,Automatic,72339.0,72449," Feb 16, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,116963.0,52498," Feb 16, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,90660.0,52498," Feb 16, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,15276.0,64999," Feb 16, 2021",5
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,115250.0,45000," Feb 16, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,132239.0,41999," Feb 16, 2021",5
+Lincoln MKT 2015,Lincoln ,MKT ,2015.0,Automatic,68317.0,99999," Feb 16, 2021",1
+Lincoln MKS 2014,Lincoln ,MKS ,2014.0,Automatic,21667.0,93450," Feb 16, 2021",1
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,28000.0,37800," Feb 16, 2021",10
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,10666.0,52500," Feb 16, 2021",10
+Toyota Avalon  3.5L S 2013,Toyota ,Avalon ,2013.0,CVT,69000.0,70000," Feb 16, 2021",5
+Chevrolet Blazer  3.6L V6 2LT 2007,Chevrolet ,Blazer ,2007.0,Automatic,228000.0,14000," Feb 16, 2021",10
+Dodge Durango  5.7L 2005,Dodge ,Durango ,2005.0,Automatic,370000.0,17000," Feb 16, 2021",10
+Hyundai Accent  1.6L Mid Option 2013,Hyundai ,Accent ,2013.0,Automatic,205000.0,17500," Feb 16, 2021",10
+Toyota Land Cruiser Prado  2.7L EXR 2002,Toyota ,Land ,2002.0,Automatic,313000.0,25000," Feb 16, 2021",1
+Toyota Previa  2.4L S 2015,Toyota ,Previa ,2015.0,Automatic,178000.0,49000," Feb 16, 2021",1
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,28000.0,37800," Feb 16, 2021",10
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,10666.0,52500," Feb 16, 2021",10
+Lincoln MKS 2014,Lincoln ,MKS ,2014.0,Automatic,21667.0,93450," Feb 16, 2021",1
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,132239.0,41999," Feb 16, 2021",5
+Lincoln MKT 2015,Lincoln ,MKT ,2015.0,Automatic,68317.0,99999," Feb 16, 2021",1
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66325.0,53549," Feb 16, 2021",5
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,115250.0,45000," Feb 16, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,90660.0,52498," Feb 16, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,96338.0,49999," Feb 16, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,15276.0,64999," Feb 16, 2021",5
+Lincoln MKT 2013,Lincoln ,MKT ,2013.0,Automatic,72339.0,72449," Feb 16, 2021",5
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,29900.0,56000," Feb 16, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,116963.0,52498," Feb 16, 2021",5
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,2218.0,37800," Feb 16, 2021",10
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,35511.0,60900," Feb 16, 2021",5
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,83800.0,78750," Feb 16, 2021",1
+Ford Edge 2014,Ford ,Edge ,2014.0,Automatic,56723.0,59999," Feb 16, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4483.0,120750," Feb 16, 2021",1
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,57750," Feb 16, 2021",5
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,82604.0,52498," Feb 16, 2021",5
+Ford Fusion 2015,Ford ,Fusion ,2015.0,Automatic,22603.0,45000," Feb 16, 2021",10
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1243.0,165999," Feb 16, 2021",1
+Ford Focus 2017,Ford ,Focus ,2017.0,Automatic,1739.0,42000," Feb 16, 2021",10
+Ford Expedition 2012,Ford ,Expedition ,2012.0,Automatic,118300.0,52500," Feb 16, 2021",5
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,165500.0,52499," Feb 16, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,16834.0,149999," Feb 16, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,7000.0,142800," Feb 16, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,4422.0,134999," Feb 16, 2021",1
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,22114.0,99999," Feb 16, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,2774.0,134999," Feb 16, 2021",1
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Feb 16, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,15878.0,189000," Feb 16, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,2129.0,155999," Feb 16, 2021",1
+Lincoln MKX 2016,Lincoln ,MKX ,2016.0,Automatic,35667.0,167999," Feb 16, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,92409.0,54999," Feb 16, 2021",5
+Ford Expedition 2015,Ford ,Expedition ,2015.0,Automatic,92823.0,73499," Feb 16, 2021",1
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,90033.0,22999," Feb 16, 2021",10
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1130.0,100500," Feb 16, 2021",1
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,1218.0,142999," Feb 16, 2021",1
+Ford Mustang 2017,Ford ,Mustang ,2017.0,Automatic,7796.0,156000," Feb 16, 2021",1
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,155766.0,54999," Feb 16, 2021",1
+Ford Ranger 2011,Ford ,Ranger ,2011.0,Manual,8184.0,24999," Feb 16, 2021",10
+Ford Flex 2016,Ford ,Flex ,2016.0,Automatic,2700.0,93450," Feb 16, 2021",5
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,26900.0,73000," Feb 16, 2021",5
+Lincoln Navigator 2012,Lincoln ,Navigator ,2012.0,Automatic,102500.0,84000," Feb 16, 2021",1
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,13333.0,94999," Feb 16, 2021",1
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,50287.0,51450," Feb 16, 2021",10
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,6214.0,102999," Feb 16, 2021",1
+Ford Focus 2016,Ford ,Focus ,2016.0,Automatic,27202.0,44999," Feb 16, 2021",10
+Ford Focus 2013,Ford ,Focus ,2013.0,Automatic,48854.0,20000," Feb 16, 2021",10
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,14505.0,44999," Feb 16, 2021",10
+Ford Fusion 2016,Ford ,Fusion ,2016.0,Automatic,17110.0,48999," Feb 16, 2021",10
+Lincoln Continental 2017,Lincoln ,Continental ,2017.0,Automatic,10300.0,259999," Feb 16, 2021",1
+Ford Taurus 2015,Ford ,Taurus ,2015.0,Automatic,35000.0,94500," Feb 16, 2021",1
+Ford Expedition 2016,Ford ,Expedition ,2016.0,Automatic,68281.0,90999," Feb 16, 2021",1
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,18815.0,51729," Feb 16, 2021",10
+Ford Explorer 2017,Ford ,Explorer ,2017.0,Automatic,14000.0,159999," Feb 16, 2021",1
+Ford Expedition 2014,Ford ,Expedition ,2014.0,Automatic,92618.0,59999," Feb 16, 2021",5
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,49210.0,51999," Feb 16, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,90109.0,49999," Feb 16, 2021",5
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,42249.0,52500," Feb 16, 2021",10
+Toyota Camry 2015,Toyota ,Camry ,2015.0,Automatic,39706.0,52500," Feb 16, 2021",10
+Ford Expedition 2017,Ford ,Expedition ,2017.0,Automatic,3960.0,150150," Feb 16, 2021",1
+Ford Edge 2012,Ford ,Edge ,2012.0,Automatic,71188.0,50400," Feb 16, 2021",5
+Ford Fusion 2014,Ford ,Fusion ,2014.0,Automatic,95395.0,33000," Feb 16, 2021",10
+Ford Taurus 2017,Ford ,Taurus ,2017.0,Automatic,1606.0,110000," Feb 16, 2021",1
+Ford Explorer 2015,Ford ,Explorer ,2015.0,Automatic,68114.0,63999," Feb 16, 2021",5
+Ford Edge 2017,Ford ,Edge ,2017.0,Automatic,1682.0,134999," Feb 16, 2021",1
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,18652.0,50000," Feb 16, 2021",10
+Toyota Corolla 2016,Toyota ,Corolla ,2016.0,Automatic,43814.0,49999," Feb 16, 2021",10
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,132368.0,54999," Feb 16, 2021",5
+Ford Explorer 2016,Ford ,Explorer ,2016.0,Automatic,18900.0,129999," Feb 16, 2021",1
+Ford Ranger 2016,Ford ,Ranger ,2016.0,Manual,43961.0,54999," Feb 16, 2021",10
+Cadillac CTS 2014,Cadillac ,CTS ,2014.0,Automatic,68000.0,83000," Feb 16, 2021",1
+Cadillac CTS 2014,Cadillac ,CTS ,2014.0,Automatic,107024.0,77000," Feb 16, 2021",1
+Ford EcoSport 2014,Ford ,EcoSport ,2014.0,Automatic,186000.0,23000," Feb 16, 2021",10
+Ford Focus 2014,Ford ,Focus ,2014.0,Automatic,93700.0,24999," Feb 16, 2021",10
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,157000.0,43999," Feb 16, 2021",5
+Ford Explorer 2013,Ford ,Explorer ,2013.0,Automatic,89000.0,54999," Feb 16, 2021",5
+Ford Expedition 2013,Ford ,Expedition ,2013.0,Automatic,105100.0,53999," Feb 16, 2021",5
+Ford Edge 2013,Ford ,Edge ,2013.0,Automatic,145150.0,55999," Feb 16, 2021",1
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,147600.0,39999," Feb 16, 2021",5
+Lincoln MKS 2015,Lincoln ,MKS ,2015.0,Automatic,22456.0,79999," Feb 16, 2021",5
+Ford Explorer 2014,Ford ,Explorer ,2014.0,Automatic,53035.0,62999," Feb 16, 2021",5
+Ford Explorer 2012,Ford ,Explorer ,2012.0,Automatic,136586.0,44999," Feb 16, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20221.0,20999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,26993.0,20999," Feb 16, 2021",10
+Ford Taurus 2013,Ford ,Taurus ,2013.0,Automatic,191302.0,33999," Feb 16, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,20190.0,20999," Feb 16, 2021",10
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,31038.0,20999," Feb 16, 2021",10
+Ford Escape 2015,Ford ,Escape ,2015.0,Automatic,66323.0,44999," Feb 16, 2021",10
+Ford Fusion 2017,Ford ,Fusion ,2017.0,Automatic,36900.0,64999," Feb 16, 2021",5
+Ford Figo 2016,Ford ,Figo ,2016.0,Automatic,23172.0,20999," Feb 16, 2021",10
+Ford Taurus 2016,Ford ,Taurus ,2016.0,Automatic,55012.0,70000," Feb 16, 2021",5
